@@ -1,0 +1,262 @@
+--- /de..1ecfd1f4
++#Sat F..9193c637
++distri..aac5d593
++distri..89786a65
++zipSto..e0dea0e5
++zipSto..e4d00077
++distri..0191d6c0
+--- /de..1ecfd1f4
++#!/usr..9f3fd9d8
++..60001ac8
++######..e3f4f769
++##..d9c19364
++##  Gr..ee58cc6a
++##..d9c19364
++######..e3f4f769
++..60001ac8
++# Atte..3f9105a4
++# Reso..23c2f937
++PRG="$..e0fe6d04
++# Need..90ca0d02
++while ..534608b9
++    ls..b80b1b00
++    li..598a7bd2
++    if..cc469dae
++      ..58c9fd99
++    el..a332cf37
++      ..b728160d
++    fi..6018ef21
++done..095e9a12
++SAVED=..d9c8c72e
++cd "`d..03a6aef6
++APP_HO..3a1d2bdd
++cd "$S..792af769
++..60001ac8
++APP_NA..c5da595a
++APP_BA..52060679
++..60001ac8
++# Add ..5ae5f867
++DEFAUL..82e8e3c6
++..60001ac8
++# Use ..0f1bacf4
++MAX_FD..eda88b55
++..60001ac8
++warn (..ec1a6855
++    ec..9899eca7
++}..cfb0aae7
++..60001ac8
++die ( ..b0eb7aad
++    ec..d8346534
++    ec..9899eca7
++    ec..d8346534
++    ex..0fc3033d
++}..cfb0aae7
++..60001ac8
++# OS s..e1d52825
++cygwin..b795fe81
++msys=f..1aef4a6e
++darwin..b5c30b61
++nonsto..137b2149
++case "..98afe247
++  CYGW..c3d532eb
++    cy..3727e9e7
++    ;;..1359309e
++  Darw..917411fc
++    da..cd90f62a
++    ;;..1359309e
++  MING..4a873787
++    ms..3688af57
++    ;;..1359309e
++  NONS..9c60c300
++    no..fa431bf4
++    ;;..1359309e
++esac..bde5d5af
++..60001ac8
++CLASSP..59227bef
++..60001ac8
++# Dete..eb965ded
++if [ -..47783621
++    if..a13f50b3
++      ..815718ec
++      ..fc3ef090
++    el..a332cf37
++      ..cca746f5
++    fi..6018ef21
++    if..4d89b974
++      ..fe6e2dcb
++..60001ac8
++Please..37a56c3a
++locati..26061150
++    fi..6018ef21
++else..42ff4d0b
++    JA..db02d724
++    wh..c27be75b
++..60001ac8
++Please..37a56c3a
++locati..26061150
++fi..58517c88
++..60001ac8
++# Incr..3af056bc
++if [ "..1a646e05
++    MA..da1f7129
++    if..1f69e822
++      ..edb4284b
++      ..ee31e38a
++      ..8326a027
++      ..608e435b
++      ..143ff5b8
++      ..07d2b3f4
++      ..8326a027
++    el..a332cf37
++      ..6481a79e
++    fi..6018ef21
++fi..58517c88
++..60001ac8
++# For ..6fd02bf5
++if $da..f1e8efc9
++    GR..8aa85eda
++fi..58517c88
++..60001ac8
++# For ..f775dc16
++if $cy..60a85187
++    AP..8f657a91
++    CL..50d34a6e
++    JA..be72cebf
++..60001ac8
++    # ..637241f9
++    RO..527132f1
++    SE..4c47c897
++    fo..caccb70e
++      ..8e19e73e
++      ..14523d78
++    do..71bfc7df
++    OU..5fe8ee2f
++    # ..f219db55
++    if..6a28e9a7
++      ..3803d0cc
++    fi..6018ef21
++    # ..d35f5177
++    i=..ca675c05
++    fo..0a5526c3
++      ..05298f12
++      ..58b1bf46
++..60001ac8
++      ..57525a1c
++      ..8155ba99
++      ..41c0c7bd
++      ..0352f949
++      ..8326a027
++      ..2970dcae
++    do..71bfc7df
++    ca..d97f0da1
++      ..3a994af4
++      ..713cb103
++      ..d63662ee
++      ..fd39d0ab
++      ..5b2318fa
++      ..364b0c32
++      ..84d725b1
++      ..9a2d48ab
++      ..d60e2bba
++      ..19f911c3
++    es..42ff8ff9
++fi..58517c88
++..60001ac8
++# Spli..30f3a6b7
++functi..36a6a68f
++    JV..6f6dd027
++}..cfb0aae7
++eval s..4f450e20
++JVM_OP..2d6e904d
++..60001ac8
++# by d..000a40b7
++if [[ ..ee4898ed
++  cd "..a5561550
++fi..58517c88
++..60001ac8
++exec "..707b8ea4
+--- /de..1ecfd1f4
++@if "%..1ba186d7
++@rem #..ef85f0e0
++@rem..83d9d7a4
++@rem  ..10de0a8a
++@rem..83d9d7a4
++@rem #..ef85f0e0
++..60001ac8
++@rem S..a8951b1d
++if "%O..020e689d
++..60001ac8
++set DI..00bba727
++if "%D..fffb1ad2
++set AP..66a3f459
++set AP..78e5bfa3
++..60001ac8
++@rem A..000220c6
++set DE..d7b9247c
++..60001ac8
++@rem F..b133e1a4
++if def..40829365
++..60001ac8
++set JA..7f5de999
++%JAVA_..ae5adf16
++if "%E..1714c1e2
++..60001ac8
++echo...336805e0
++echo E..8c6476e8
++echo...336805e0
++echo P..ef8a0183
++echo l..47d512ad
++..60001ac8
++goto f..d92b2ba4
++..60001ac8
++:findJ..79cd182d
++set JA..3275b7d8
++set JA..57b574ec
++..60001ac8
++if exi..954d5cb4
++..60001ac8
++echo...336805e0
++echo E..38c672e9
++echo...336805e0
++echo P..ef8a0183
++echo l..47d512ad
++..60001ac8
++goto f..d92b2ba4
++..60001ac8
++:init..0aac665f
++@rem G..b1531a19
++..60001ac8
++if not..38b0e74c
++..60001ac8
++:win9x..5c325a6e
++@rem S..680d9809
++set CM..b805b2b6
++set _S..512dd82f
++..60001ac8
++:win9x..765e3ad2
++if "x%..4e7b7c41
++..60001ac8
++set CM..ad8d9535
++..60001ac8
++:execu..1f95bd55
++@rem S..826b82a4
++..60001ac8
++set CL..9dcea764
++..60001ac8
++@rem E..7155f449
++"%JAVA..906e6443
++..60001ac8
++:end..a1a88357
++@rem E..4a422e33
++if "%E..2a27157d
++..60001ac8
++:fail..1b6fe193
++rem Se..6376a202
++rem th..bead8ea4
++if  no..1680d144
++exit /..f5de7c41
++..60001ac8
++:mainE..ac8acd41
++if "%O..eb481f05
++..60001ac8
++:omega..1fd402d1
