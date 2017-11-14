@@ -1,0 +1,112 @@
+--- /de..24da7875
++{..071f77fa
++  "pla..b7a13267
++	"name..80144ea1
++  },..25eb3d5b
++  "db"..41c161c9
++	"adap..6db7a81a
++	"data..f5a12505
++	"user..6dd87932
++	"pass..beb456ee
++  },..25eb3d5b
++  "eth..2af0dc7e
++	"mode..1f9e23e9
++	"path..11c30cde
++  }..05e690e8
++}..8ef2fd2a
+-includ..86a2f822
++includ..94ebd02c
++requir..a2d939d6
+-	publi..c768b556
++	priva..42be217f
++	publi..c219bad9
++	{..a300f897
++		if(e..191db373
++			$js..0f9ee9be
++			sel..447538c8
++		}..113f779f
++..6471ae60
++		retu..b0700f37
+-}..b475a9d0
++}..8ef2fd2a
+-				'd..6153cef3
+-				'd..fa16dc61
+-				'u..c63d0832
+-				'p..a2f20de3
++				'd..6d30cb1a
++				'd..7303345a
++				'u..a318fb86
++				'p..2d11ea59
+-..4220eb53
++	publi..bf7a9cc2
++		$con..ec01a4ed
++		$res..e15b58ac
++		die(..39398500
++	}..ef04bbf9
+--- /de..24da7875
++<?php..c3c61871
++..6471ae60
++class ..74801ad2
++{..071f77fa
++	priva..3e919e1b
++..6471ae60
++	publi..ece817e1
++	{..a300f897
++		if (..7801ef90
++			$ip..94ad1a68
++			$th..54690760
++			soc..20ae0925
++		}..113f779f
++..6471ae60
++		retu..92ce83ca
++	}..ef04bbf9
++..6471ae60
++	publi..92b0ec10
++	{..a300f897
++		sock..c3428914
++	}..ef04bbf9
++..6471ae60
++	publi..348c18a1
++	{..a300f897
++		$buf..dea974d3
++		$msg..96fd1868
++			'js..1a466cc0
++			'me..19f7a09c
++			'pa..bbeafc6a
++			'id..da37a6b6
++		]);..70e8a663
++		sock..b7ba38d3
++		sock..d3de1ba2
++		retu..58f3b8e8
++	}..ef04bbf9
++}..8ef2fd2a
+--- /de..24da7875
++<?php..c3c61871
++..6471ae60
++interf..53628e8e
++{..071f77fa
++	publi..dcb649fa
++	publi..a0f12f18
++	publi..607fc450
++}..8ef2fd2a
++++ /de..ca39ac7f
+-<?php..bd48a23a
+-..4220eb53
+-class ..2eefa64a
+-{..a396eca4
+-    pu..2c54e8b5
+-..4220eb53
+-    pu..a726fa89
+-      ..a0b85306
+-      ..a7787730
+-      ..543ada4c
+-      ..72e42005
+-..4220eb53
+-      ..ac000b9f
+-      ..e071635a
+-      ..5df7a38e
+-      ..b3eb2150
+-      ..656f168b
+-      ..48f5ca9f
+-    }..a7c2280f
+-}..b475a9d0
