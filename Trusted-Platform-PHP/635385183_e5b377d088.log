@@ -1,0 +1,92 @@
+--- /de..24da7875
++FROM u..acd1df5b
++..6471ae60
++ENV DE..a1d42ea2
++..6471ae60
++# Brin..8c5e135f
++RUN ap..d80e457e
++..6471ae60
++# Firs..cfad9b19
++RUN ap..888a5380
++..6471ae60
++# Set ..2fd5b365
++RUN ap..9779310c
++..6471ae60
++# The ..bc57b7a6
++RUN mk..12bfe7f4
++RUN mk..8aa27928
++..6471ae60
++# Down..d85a53a5
++RUN wg..fe484564
++	php -..fcf752a2
++	rm co..fdd3d0a5
++..6471ae60
++# Set ..105cdedb
++RUN ap..9c820e7f
++..6471ae60
++# Mysq..8ecc1d35
++RUN ch..606fc9e4
++..6471ae60
++# Work..2c26bf73
++RUN mk..f96c142a
++COPY ...b002d6fa
++WORKDI..112c656f
++..6471ae60
++# Inst..d2a6c668
++RUN co..d142f43e
++..6471ae60
++# Copy..7a581146
++RUN mv..1d29d188
++RUN ls..3834cfff
++..6471ae60
++# Move..c9d7107c
++RUN mv..6eaaff14
++..6471ae60
++# Remo..7ff7c1a3
++RUN rm..ddb7a285
++..6471ae60
++EXPOSE..3880c2cf
++ENTRYP..b382835e
+-  `dat..2fe80057
++  `dat..fcc5195f
+--- /de..24da7875
++#!/bin..62ac514a
++chown ..1d7d7c05
++/usr/b..aaef4311
++cd pub..b512eec8
+--- /de..24da7875
++[progr..6b40e7c9
++priori..b313240a
++nodaem..cca8974c
++comman..e4112980
+--- /de..24da7875
++[progr..e5d3f804
++priori..15cce4ab
++starts..77460aa2
++comman..c3016432
++		// @..0b967ad7
++		$res..542ad67a
++		$eve..43cde131
++..6471ae60
+-		/*..d3d337c3
+-		 * E..c2bc92c1
+-		 */..54d81143
+-		$eve..11a793c3
+-		$eve..a5bb3db2
++		(new..b277d67c
++	 * @p..e8c1d84b
+-	publi..a666531e
++	publi..411c1ef1
+-				$s..045b9441
++				$s..c728e5fe
++					'..bd15d0c0
++					'..dc91b780
++				])..c9834690
++		if($..31355657
++			(ne..3a38f1c6
++..6471ae60
+-		$suc..7e8376a5
++		$suc..201a8e50
++..6471ae60
++		(new..a293ae95
++..6471ae60
