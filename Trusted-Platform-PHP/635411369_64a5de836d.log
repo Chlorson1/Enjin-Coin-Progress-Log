@@ -1,0 +1,53 @@
+--- /de..24da7875
++FROM u..acd1df5b
++..6471ae60
++ENV DE..a1d42ea2
++..6471ae60
++# Brin..8c5e135f
++RUN ap..d80e457e
++..6471ae60
++# Firs..cfad9b19
++RUN ap..27260de3
++..6471ae60
++# Set ..2fd5b365
++RUN ap..2c4531ca
++RUN ph..7ac4bdcf
++..6471ae60
++# The ..bc57b7a6
++RUN mk..12bfe7f4
++RUN mk..8aa27928
++..6471ae60
++# Set ..105cdedb
++RUN ap..9c820e7f
++..6471ae60
++# Mysq..8ecc1d35
++RUN ch..606fc9e4
++..6471ae60
++# Work..2c26bf73
++RUN mk..f96c142a
++COPY ...b002d6fa
++WORKDI..112c656f
++..6471ae60
++# Copy..7a581146
++RUN mv..1d29d188
++RUN ls..3834cfff
++..6471ae60
++# Move..c9d7107c
++RUN mv..6eaaff14
++..6471ae60
++# Remo..7ff7c1a3
++RUN rm..ddb7a285
++..6471ae60
++EXPOSE..a8502850
++ENTRYP..b382835e
++..6471ae60
+--- /de..24da7875
++#!/bin..62ac514a
++chown ..1d7d7c05
++exec /..3171baaa
+--- /de..24da7875
++[progr..e5d3f804
++comman..c3016432
+--- /de..24da7875
++[progr..b4955353
++comman..675d4a93
