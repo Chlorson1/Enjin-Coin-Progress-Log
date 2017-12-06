@@ -1,0 +1,152 @@
+--- ---..09436d85
+--- Aut..04d80b07
+-..4220eb53
+-DROP T..4caa5f26
+-CREATE..8cf8288e
+-  `rol..da9cde35
+-  `rol..fe71f058
+-  `aut..d89fa481
+-  `exp..e25c875d
+-  PRIM..6d0b6d06
+-  UNIQ..bab51ee7
+-) ENGI..deaa61b3
+-..4220eb53
++  `aut..999ec6f3
++  `rol..4a4f0581
+--- /de..24da7875
++{..071f77fa
++	"json..f7082b0a
++	"meth..b3b6c109
++	"para..086dfe42
++		"aut..ca40ddb4
++	},..89e3efb9
++	"id":..45c37dee
++}..8ef2fd2a
+--- /de..24da7875
++{..071f77fa
++	"json..f7082b0a
++	"resu..eb4c9e95
++		"not..e3e51354
++			"me..15e04456
++			"cl..6003ef18
++				"a..4eeebc51
++				"c..15ea808d
++			},..4b38fced
++			"ch..5578a11c
++				"s..743d028c
++			},..4b38fced
++			"ro..ab790023
++		}..113f779f
++	},..89e3efb9
++	"id":..45c37dee
++}..8ef2fd2a
++use En..96e1aea4
++	const..d8290124
++	const..9ff1a744
++	const..219c6179
++	const..22606305
++..6471ae60
++..6471ae60
++	/**..4f2c6ed2
++	 * Ge..f65eeff6
++	 * @r..a1d96806
++	 */..926e5106
++	publi..531c941a
++		$rol..5528a955
++..6471ae60
++		if(!..ea9680b5
++			$ro..1e36ba39
++..6471ae60
++		retu..1e450af9
++	}..ef04bbf9
++..6471ae60
++	/**..4f2c6ed2
++	 * Re..bd1c1806
++	 * @p..410b2919
++	 * @r..c7ff527f
++	 */..926e5106
++	publi..5cbcf857
++		$ide..5a649331
++		if(!..f1e9706b
++		else..09554eac
++..6471ae60
++		if(!..c05ce12e
++			ret..be7549a7
++		}..113f779f
++		retu..2780d1b6
++	}..ef04bbf9
+--- /de..24da7875
++<?php..c3c61871
++namesp..8a02aaaa
++..6471ae60
++use Ze..af3a5637
++use En..837047a8
++use En..96e1aea4
++use En..139f8ac5
++..6471ae60
++class ..d4aaabb4
++	publi..151c5f82
++		$ide..a7a1f9b1
++		retu..2b320fba
++			'no..63130101
++				'm..576a015f
++				'c..0f405606
++				'c..c8a0ec63
++					'..86440b07
++					'..23d42913
++					'..c8fe0358
++				],..8403a0f7
++				'r..c8b8ec0a
++			]..cccff0e6
++		];..29c27be4
++	}..ef04bbf9
++}..8ef2fd2a
++++ /de..ca39ac7f
+-<?php..bd48a23a
+-namesp..a85893e4
+-..4220eb53
+-use Ze..b520a01b
+-use En..5d9f886a
+-use En..5950b6e9
+-..4220eb53
+-class ..d5129e5a
+-	publi..612d2c19
+-..4220eb53
+-	}..a1f987b8
+-}..b475a9d0
+-	const..fe366292
+-	const..f5ebac58
+-	const..35eb634d
+-	const..d758c519
++	publi..c6d0e42d
++	priva..7cbbd185
++	priva..a914ec1b
++	priva..589df275
+-		self..d1873993
+-		self..1af45c9a
++		self..1784fabd
++		self..984984e7
+-	publi..6bd199a5
+-		retu..3da0f87a
++	publi..f6c6838b
++		retu..cc9c034d
++	}..ef04bbf9
++..6471ae60
++	publi..7be1d61e
++		retu..f678e703
++	}..ef04bbf9
++..6471ae60
++	publi..d371d320
++		retu..5c4a8409
++	}..ef04bbf9
++..6471ae60
++	publi..18d36cee
++		retu..b04d59f1
++	publi..8c19019c
++..6471ae60
++	publi..8375eb3c
++		retu..2b320fba
++			'ap..50ec0da8
++			'cl..1c02fea9
++		];..29c27be4
++	}..ef04bbf9
