@@ -1,0 +1,64 @@
+--- /de..1cf1a567
++FROM u..ae721223
++..a2070934
++ENV DE..800876d5
++..a2070934
++# Brin..64dca860
++RUN ap..4c6c9adb
++..a2070934
++# Firs..88244f0b
++RUN ap..f6262672
++..a2070934
++# Set ..4d4111e0
++RUN ap..d82ad4c3
++..a2070934
++# The ..a9ba42c7
++RUN mk..10822169
++RUN mk..7afcfe2f
++..a2070934
++# Down..3cb99aea
++RUN wg..6168204f
++	php -..9e9ea0c0
++	rm co..ab35aa57
++..a2070934
++# Set ..fe3c16c9
++RUN ap..bda1d8fc
++..a2070934
++# Mysq..97be020f
++RUN ch..0e454fc2
++..a2070934
++# Work..78d2e853
++RUN mk..b1b26bba
++COPY ...dd6f2e02
++WORKDI..a01f11dc
++..a2070934
++# Inst..bf334bbd
++RUN co..ab8d073e
++..a2070934
++# Copy..4642f3cf
++RUN mv..b758705b
++RUN ls..a867454a
++..a2070934
++# Move..d215dbd5
++RUN mv..a40bf8d4
++..a2070934
++# Remo..08f1bdc4
++RUN rm..c92f93de
++..a2070934
++EXPOSE..a03977ec
++ENTRYP..5a6f301f
+--- /de..1cf1a567
++#!/bin..a186a3b7
++chown ..9f9159bf
++/usr/b..a50b1b34
++cd pub..b8c4f271
+--- /de..1cf1a567
++[progr..7177a066
++priori..2a37a30a
++nodaem..73d58ed6
++comman..6432402e
+--- /de..1cf1a567
++[progr..bcb1f450
++priori..a025836e
++starts..4d19e4e1
++comman..26162d5a
