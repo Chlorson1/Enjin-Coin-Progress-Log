@@ -1,0 +1,328 @@
++-- ---..11180a90
++-- coi..85d4eed0
++..6def64c7
++DROP T..3a8b2a89
++CREATE..d4f0a0bf
++	`id` ..fc235582
++	`addr..e8ac5e22
++	`toke..08a5261e
++	`symb..955c7e89
++	`deci..7b8a33ef
++	`name..fa87e89b
++	`exch..dfcff81c
++	`mark..8d0e24c8
++	`publ..ce51ceea
++	PRIMA..920875ac
++	UNIQU..c6c38a73
++	INDEX..70c83251
++	INDEX..4a91804b
++	INDEX..bf799003
++)..8b1c2840
++	ENGIN..66653e47
++	DEFAU..9116bc4d
++..6def64c7
++DROP T..92fa0505
++CREATE..911b8065
++	`coin..f9541361
++	`time..19a2889e
++	`usd`..aee22a3c
++	PRIMA..b2a8ce6d
++	INDEX..3c562fef
++)..8b1c2840
++	ENGIN..66653e47
++	DEFAU..9116bc4d
++..6def64c7
++++ /de..9399980f
+-<?php..275a3805
+-..e813cdf3
+-chdir(..a3215d87
+-requir..d5f26c58
+-..e813cdf3
+-use Wa..ea9d928b
+-use Wa..3cc93e30
+-use Wa..99a494e5
+-use Wa..e880aa29
+-..e813cdf3
+-set_ti..19268e16
+-..e813cdf3
+-$timeS..63e0fa96
+-..e813cdf3
+-echo "..f14d24dd
+-..e813cdf3
+-$model..174028d4
+-$db = ..a8d1a087
+-$lastB..d81901b0
+-..e813cdf3
+-$range..a2dc85a1
+-$range..e345e63f
+-..e813cdf3
+-for ($..6f407eca
+-	echo ..514082ad
+-..e813cdf3
+-	$txs ..50805186
+-	forea..c5231d05
+-		$rec..a81ed722
+-..e813cdf3
+-		$sta..b0de853f
+-		if (..6ac6b138
+-			$st..077c9ec0
+-		}..419bfea7
+-..e813cdf3
+-		// d..64d9684e
+-		$dat..8923a868
+-		if (..0ec07343
+-			$da..b407a99a
+-		}..419bfea7
+-..e813cdf3
+-		$db-..418006ab
+-			'st..26f413b7
+-			'er..6a9891c6
+-			'da..d874c908
+-			'cu..1b9f36ce
+-			'ga..6f974599
+-			'co..1e2eccb6
+-			'tr..e4b77241
+-		], [..8ddf8677
+-			'ha..6dad82a4
+-		]);..725933a7
+-	}..ea264f0a
+-}..b4fbc677
+-..e813cdf3
+-$timeF..166a2e08
+-$elaps..a8056bb5
+-echo "..927b2d0f
++++ /de..9399980f
+-<?php..275a3805
+-..e813cdf3
+-chdir(..a3215d87
+-requir..d5f26c58
+-..e813cdf3
+-use Wa..ea9d928b
+-use Wa..3cc93e30
+-use Wa..99a494e5
+-use Wa..e880aa29
+-..e813cdf3
+-set_ti..19268e16
+-..e813cdf3
+-$timeS..63e0fa96
+-..e813cdf3
+-echo "..f14d24dd
+-..e813cdf3
+-$model..174028d4
+-$db = ..a8d1a087
+-$lastB..d81901b0
+-..e813cdf3
+-$range..a2dc85a1
+-$range..e345e63f
+-..e813cdf3
+-for ($..6f407eca
+-	echo ..3b7bb836
+-..e813cdf3
+-	$txs ..50805186
+-	forea..c5231d05
+-		$rec..a81ed722
+-		fore..9b5c475d
+-			try..91ffd96c
+-				$d..60e98ed5
+-					'..b0aca4c6
+-					'..43a899e6
+-					'..00f360c1
+-					'..589fdf62
+-					'..bc7e133a
+-					'..8ca4e951
+-					'..9c01f534
+-					'..a4df9aee
+-					'..6d2586c6
+-					'..0a8b6baf
+-					'..2faad95d
+-				])..08c3394c
+-			} c..4c576593
+-			}..c910c8f4
+-		}..419bfea7
+-	}..ea264f0a
+-}..b4fbc677
+-..e813cdf3
+-$timeF..166a2e08
+-$elaps..a8056bb5
+-echo "..927b2d0f
+--- /de..2d832afd
++<?php..79afa14a
++..6def64c7
++chdir(..df9c331b
++requir..1e111a6b
++..6def64c7
++set_ti..2d9d0631
++ini_se..be1ed5ea
++..6def64c7
++use Wa..2e046eeb
++use Wa..489a1dba
++..6def64c7
++$timeS..1b577aa0
++echo "..6225a82f
++..6def64c7
++$db = ..97fca7c5
++$model..bd355c91
++..6def64c7
++// exc..128d4f50
++$prior..c1f15c8d
++	'bith..eff7cf58
++	'bina..5c9b3cef
++	'bitf..b3f59f7b
++	'okex..e5535b17
++	'bitt..9c4ef448
++	'huob..d6a6ead1
++	'hitb..c1de469c
++	'polo..2b0caf0e
++	'gdax..3ba017c3
++	'bits..ee1e1391
++	'cryp..1b4933fa
++	'krak..ce55bd1a
++	'kuco..012e3604
++);..39f67f7c
++..6def64c7
++$allEx..a28119d7
++..6def64c7
++$coins..d265727d
++	array..6bcef762
++	array..de255062
++	array..74fbe568
++);..39f67f7c
++..6def64c7
++$allCo..2259f210
++..6def64c7
++foreac..210ffde9
++	echo ..3cec7781
++..6def64c7
++	$exch..e7c44d5b
++	$mark..f1fec1cd
++	forea..71eec4ec
++		$exc..9023a8b5
++..6def64c7
++		// U..e2a6d21a
++		try ..5a7f2231
++			$ex..7f1459b7
++			$ma..01a6564c
++			$ex..5456b4b1
++			ech..df3eafa9
++			bre..78030d3c
++		} ca..1372abed
++		}..f1aeb840
++..6def64c7
++		// B..49a26c6c
++		try ..5a7f2231
++			$ex..7769b790
++			$ma..a54090a9
++			$ex..5456b4b1
++			ech..df3eafa9
++			bre..78030d3c
++		} ca..1372abed
++		}..f1aeb840
++..6def64c7
++		// E..6999006e
++		try ..5a7f2231
++			$ex..fab28be1
++			$ma..3c71150f
++			$ex..5456b4b1
++			ech..df3eafa9
++			bre..78030d3c
++		} ca..1372abed
++		}..f1aeb840
++	}..024c248e
++..6def64c7
++	// we..6d630274
++	if (e..dae92d0e
++		echo..fb66e177
++		fore..360df1a5
++			// ..cf260c0a
++			if ..4ce982be
++				co..78d98cdb
++			}..8f3ec93d
++..6def64c7
++			// ..fa1b7984
++			if ..df81a071
++				co..78d98cdb
++			}..8f3ec93d
++..6def64c7
++			$cl..a74d49d8
++			$ex..9701c5f4
++			$ex..eb5f59ef
++..6def64c7
++			// ..be1069ed
++			try..6158faa5
++				$e..dfe5bec9
++				$m..eb45a184
++				$e..19b7dbc7
++				ec..32465e76
++				br..0463a4bc
++			} c..675dc087
++			}..8f3ec93d
++..6def64c7
++			// ..6dd631df
++			try..6158faa5
++				$e..a431f69e
++				$m..07817ca9
++				$e..19b7dbc7
++				ec..32465e76
++				br..0463a4bc
++			} c..675dc087
++			}..8f3ec93d
++..6def64c7
++			// ..714985ae
++			try..6158faa5
++				$e..53046714
++				$m..1d06a022
++				$e..19b7dbc7
++				ec..32465e76
++				br..0463a4bc
++			} c..675dc087
++			}..8f3ec93d
++		}..f1aeb840
++	}..024c248e
++..6def64c7
++	// we..e563c05e
++	if (e..dae92d0e
++		echo..5446c952
++	}..024c248e
++..6def64c7
++	echo ..ae658dd2
++..6def64c7
++	try {..f67f724a
++		$db-..332fcf09
++			'id..a2edeb46
++			'ad..510251f8
++			'to..4dd817b8
++			'sy..240b55f1
++			'de..e1ce43fa
++			'na..5e2382af
++			'ex..cc05a3fb
++			'ma..3df61a40
++			'pu..a1e05954
++		]);..c8d53911
++	} cat..7017787a
++		// c..6d3875ef
++		echo..efe74caa
++	}..024c248e
++}..139ae035
++..6def64c7
++$timeE..77474982
++$timeE..84aab5c2
++echo "..6d27cffc
+--- /de..2d832afd
++<?php..79afa14a
++namesp..6deb7202
++..6def64c7
++use Wa..2e046eeb
++..6def64c7
++class ..477f92d0
++	publi..773676a2
++		$thi..2315d237
++	}..024c248e
++..6def64c7
++	publi..63202f05
++..6def64c7
++	}..024c248e
++..6def64c7
++	publi..a3f4c0f9
++..6def64c7
++	}..024c248e
++}..139ae035
