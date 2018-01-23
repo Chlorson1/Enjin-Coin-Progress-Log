@@ -1,0 +1,1433 @@
+--- /de..b58a513b
++* * * ..1398cbc9
+--- /de..b58a513b
++#!/bin..11e9d95f
++cd ~/..af50b77a
++..68f54235
++# Scri..9767283c
++INSTAN..12fe7b8c
++ENJIN_..450debe9
++ENJIN_..fb5862ff
++ENJIN_..ab2a9676
++SCRIPT..854337c4
++LOCAL_..ff7197b5
++..68f54235
++# Chan..1b036289
++echo "..7084a79a
++echo $..b839f01e
++hostna..e37689aa
++echo $..7fa65cbf
++echo "..10c28756
++..68f54235
++# Send..1ab45e61
++echo "..8f67bc3e
++printf..cc662bd8
++chmod ..48653d22
++sh $SC..e2920938
++..68f54235
++# Remi..1e8e3d6c
++printf..9aa625c8
+--- /de..b58a513b
++server..b3b7e1c5
++    li..8a25eb8d
++..68f54235
++    ro..c82a8c3f
++    in..74ee0216
++..68f54235
++    cl..285b2ab5
++..68f54235
++    lo..c7a76a33
++      ..f0a0d88e
++    }..1d554698
++..68f54235
++    lo..37af05b8
++      ..05ebcb5e
++      ..73458b66
++      ..7bbb2894
++      ..af0291a4
++      ..2924c667
++      ..ff31f197
++    }..1d554698
++}..702e4cf7
+--- /de..b58a513b
++; Star..9db8278f
++; the ..fc45ec1e
++; pool..b231ce8f
++[www]..b93acd44
++..68f54235
++; Per ..722096e9
++; It o..864cc854
++; - 'a..bf7dc4f5
++; - 's..ba6671d3
++; - 'l..4409dc81
++; - 'c..bd671bd1
++; - 'c..789ae799
++; - 'p..7cb8e5cb
++; - 'p..f4c402dc
++; When..4632590d
++; Note..4f297b29
++; Defa..fb4e6800
++;prefi..84d275f5
++..68f54235
++; Unix..a3b02ed3
++; Note..7371f09b
++;     ..6f300d15
++user =..57e48f26
++;group..966131bc
++..68f54235
++; The ..66b37ff6
++; Vali..71166170
++;   'i..0a433877
++;     ..7f6b8e45
++;   '[..c1b27ea0
++;     ..7f6b8e45
++;   'p..94621c3c
++;     ..581c0a87
++;   '/..3b3f504f
++; Note..a0b8bad1
++listen..9f446fd9
++..68f54235
++; Set ..55da66dd
++; Defa..be4c7032
++;liste..f02579b7
++..68f54235
++; Set ..a2992aa8
++; perm..b85c1bc5
++; BSD-..c287fa81
++; Defa..4708c196
++;     ..99f252cb
++listen..b4995523
++listen..68a05ee1
++;liste..722c2d33
++; When..7dd3b43d
++; thes..5bff63ca
++; When..69f6788d
++;liste..a4346c68
++;liste..233ee72e
++..68f54235
++; List..cd6c9ccf
++; Equi..67a458a7
++; PHP ..0d3172bc
++; must..00c3c99c
++; acce..ff9e25f5
++; Defa..11b4cbe5
++;liste..5a394a82
++..68f54235
++; Spec..b8eba096
++; The ..97db7899
++; Note..70e86b41
++;     ..60fa8fb4
++;     ..1b04ac8d
++; Defa..b823e693
++; proc..466ed12e
++..68f54235
++; Choo..254c6d23
++; Poss..3b3f818f
++;   st..6afa1255
++;   dy..867e69ca
++;     ..98d5ac89
++;     ..26ee1ce1
++;     ..a86d6934
++;     ..6d69d380
++;     ..619136b7
++;     ..8d3b6a09
++;     ..f801ff29
++;     ..1b187dfd
++;     ..a2e7a0d0
++;     ..aa42711c
++;     ..f801ff29
++;     ..f65dda71
++;     ..a182cb4e
++;  ond..5bba67da
++;     ..7e8b0fd0
++;     ..02ae1b3f
++;     ..c115bf08
++;     ..982ef2d0
++;     ..8e4d635c
++; Note..a0b8bad1
++pm = d..eb5a7c27
++..68f54235
++; The ..f428e9a5
++; maxi..35b8a256
++; This..2e402139
++; serv..1159adde
++; Equi..1de474c5
++; CGI...a28f7b4b
++; forg..cc03f715
++; Note..a0b32335
++; Note..a0b8bad1
++pm.max..7f691753
++..68f54235
++; The ..e796ce30
++; Note..c33bd9a1
++; Defa..06718a2c
++pm.sta..46d8c03c
++..68f54235
++; The ..cf3b8fec
++; Note..c33bd9a1
++; Note..75278bca
++pm.min..9363c2d0
++..68f54235
++; The ..f8d91361
++; Note..c33bd9a1
++; Note..75278bca
++pm.max..fe9a0cd5
++..68f54235
++; The ..f25e54dc
++; Note..5a650fb2
++; Defa..60350919
++;pm.pr..bd25df59
++..68f54235
++; The ..22df4da1
++; This..bbb6850e
++; endl..fb9764a4
++; Defa..71eba689
++;pm.ma..5a67f4ef
++..68f54235
++; The ..e052998a
++; reco..8d02ea78
++;   po..98e20b09
++;   pr..30aade94
++;   st..4d3bd564
++;   st..d6177446
++;   ac..93725347
++;   li..a35ee97d
++;     ..03119fa9
++;   ma..b6757a3e
++;     ..94a9bace
++;   li..c60fbea2
++;   id..6c1344c1
++;   ac..4747f1d6
++;   to..de33bae2
++;   ma..04d69018
++;     ..d544587b
++;   ma..f516b50c
++;     ..582d28d9
++;     ..d2cf8ee5
++; Valu..fdd989f8
++; Exam..961a04b0
++;   po..5fc6cdce
++;   pr..507bc3b5
++;   st..1e650f8d
++;   st..15d0c6fd
++;   ac..64413bc5
++;   li..2e8818c3
++;   ma..26ea3516
++;   li..b0d783ae
++;   id..f6784307
++;   ac..00d51122
++;   to..7f62a7a4
++;   ma..c02efbbf
++;   ma..6497590b
++;..5bd14d84
++; By d..55685641
++; 'htm..cfc0e267
++; outp..037a903a
++;   ht..2333192c
++;   ht..1db10944
++;   ht..3bc70d75
++;   ht..27b59812
++;..5bd14d84
++; By d..8f10f632
++; quer..cef2706a
++; Exam..c3db9e5c
++;   ht..a7e584f5
++;   ht..b07e62a9
++;   ht..f5e690f6
++;   ht..fc93f4e5
++; The ..e5deb5e8
++;   pi..95dbfa04
++;   st..5de36f3c
++;   st..6a96528b
++;   st..3ccbcacd
++;   re..6b0ad741
++;   re..3d751862
++;   re..7d6c5b35
++;   re..a2a18c93
++;   co..95852c2d
++;   us..7ad46ab6
++;   sc..4fe0cb9c
++;   la..ed71ce9b
++;     ..16fa1fed
++;     ..a281c479
++;     ..86a8f4e0
++;   la..be88ba3f
++;     ..16fa1fed
++;     ..2586bbfd
++;     ..86a8f4e0
++; If t..86ff5a01
++; last..60ee369e
++; the ..718073b3
++; Exam..961a04b0
++;   **..6be91a98
++;   pi..0ec7dfd1
++;   st..97f8f967
++;   st..1e650f8d
++;   st..24ee1f49
++;   re..6db2f63a
++;   re..816a5364
++;   re..bb95fd9e
++;   re..dcb50835
++;   co..e851a116
++;   us..fbcd14e2
++;   sc..c905b102
++;   la..a889ebe3
++;   la..f1cfbd4a
++;..5bd14d84
++; Note..1b9567db
++;     ..2ad81736
++;..5bd14d84
++; Note..4c1728b1
++;     ..d406fb49
++;     ..1b1abf86
++; Defa..152aa78a
++;pm.st..9b4a39eb
++..68f54235
++; The ..9c174f87
++; URI ..bbf0837f
++; that..ae70dcb3
++; - cr..8b71a685
++; - re..8e44559f
++; - tr..b60ef507
++; Note..4c1728b1
++;     ..d406fb49
++;     ..1b1abf86
++; Defa..152aa78a
++;ping...baa953af
++..68f54235
++; This..727aeec7
++; resp..31eab7a6
++; Defa..531fc7b0
++;ping...e162a467
++..68f54235
++; The ..b1695c40
++; Defa..06347d80
++;acces..5a678374
++..68f54235
++; The ..4b7fa295
++; The ..14700bc3
++;  %%:..e918c958
++;  %C:..083dd7e0
++;     ..178d780b
++;     ..a74eed8f
++;     ..b5a734c5
++;     ..945f794d
++;  %d:..1879599f
++;     ..178d780b
++;     ..6113932e
++;     ..cd46548a
++;     ..5591ed13
++;     ..fd2d5e80
++;     ..a476de5d
++;  %e:..16113a2c
++;     ..94d17b6a
++;     ..79f04204
++;     ..d1476016
++;     ..af42c362
++;  %f:..ecbba480
++;  %l:..d6395485
++;  %m:..f014a9c1
++;  %M:..130cc35a
++;     ..178d780b
++;     ..42227b7d
++;     ..127689f5
++;     ..1b2962db
++;     ..663a5eba
++;     ..a811079d
++;  %n:..d01f7566
++;  %o:..e344793e
++;     ..ddb791fd
++;     ..f2b38b91
++;     ..b8cc59f2
++;     ..8fc30d11
++;     ..892a072f
++;  %p:..2a42e7d5
++;  %P:..a510bd90
++;  %q:..3d5fea09
++;  %Q:..82c4ea96
++;  %r:..667aa02e
++;  %R:..9b1d6386
++;  %s:..f973c4e1
++;  %t:..f7c88b56
++;     ..7d5c2917
++;     ..b8c795a1
++;     ..bbbd293d
++;     ..41c689d9
++;  %T:..72dd5eff
++;     ..7d5c2917
++;     ..b8c795a1
++;     ..bbbd293d
++;     ..41c689d9
++;  %u:..187fc952
++;..5bd14d84
++; Defa..23eb74b0
++;acces..cd4687ff
++..68f54235
++; The ..6bba0fd4
++; Defa..152aa78a
++; Note..3bb0e263
++;slowl..2ed58b42
++..68f54235
++; The ..1c9da521
++; dump..1c6a07b0
++; Avai..36f97ef9
++; Defa..71eba689
++;reque..b61d4d72
++..68f54235
++; The ..a357b480
++; be k..d0756044
++; does..93ddef52
++; Avai..36f97ef9
++; Defa..71eba689
++;reque..7650240e
++..68f54235
++; Set ..e8196047
++; Defa..b69a609f
++;rlimi..c2235d22
++..68f54235
++; Set ..2c8c5edf
++; Poss..50ab0b17
++; Defa..b69a609f
++;rlimi..3b1d4054
++..68f54235
++; Chro..6e99907c
++; abso..58b94066
++; Note..21f782b8
++; of i..7a7f28d4
++; will..317cf5d3
++; Note..c6c3a0a6
++;     ..ba667d7d
++;     ..b943ff29
++; Defa..152aa78a
++;chroo..1caf2942
++..68f54235
++; Chdi..32db0bda
++; Note..54676cc8
++; Defa..789f784a
++;chdir..a96e0f67
++..68f54235
++; Redi..9a7fda1b
++; stde..56492d17
++; Note..f074820e
++; proc..0ae3f332
++; Defa..c7beacc7
++;catch..29246870
++..68f54235
++; Clea..d22dd7d6
++; Prev..428397b7
++; by c..7aa40c17
++; pool..0bcb01e8
++; Sett..cc1e574b
++; via ..bfd9b3c1
++; Defa..67d3926f
++;clear..53ca307f
++..68f54235
++; Limi..e885c968
++; prev..ce1bd4ca
++; FPM ..e01852a8
++; exec..851cbc72
++; Note..5ca0fd02
++; Defa..1241e46e
++;secur..7d12ca5c
++..68f54235
++; Pass..7f989063
++; the ..85b35a76
++; Defa..c6a06b2c
++;env[H..1fde3915
++;env[P..d4728866
++;env[T..72c3177a
++;env[T..98cc028c
++;env[T..ad252012
++..68f54235
++; Addi..f657fc92
++; over..5bed2403
++; same..a4f3fab1
++;   ph..86a6d9eb
++;     ..1d4490ca
++;   ph..3c554f24
++;     ..5ad7cb42
++; For ..e8c9a0dc
++..68f54235
++; Defi..fc3d905c
++; exte..94bfa591
++; over..74697f5c
++; inst..3e48bb3e
++..68f54235
++; Note..ae7d9eea
++; (poo..406bec93
++..68f54235
++; Defa..c549dae6
++;     ..fe2120b8
++;php_a..845d025c
++;php_f..5cb9c851
++;php_a..2ab11f9f
++;php_a..c35cc76d
++;php_a..08804176
+--- /de..b58a513b
++#!/bin..11e9d95f
++..68f54235
++LOG_PA..ac97a493
++touch ..ded5eea6
++..68f54235
++while ..7ac183d5
++      ..59ef8d41
++      ..f1796953
++      ..f0a0c5f3
++      ..6c24965a
++      ..d36ac2ca
++done..54d6352f
+--- /de..b58a513b
++<?php..88a4730e
++..68f54235
++$resul..57355937
++..68f54235
++if ($r..2aaa4c8a
++	http_..3c09746c
++	die('..fd539bb3
++}..702e4cf7
++..68f54235
++$resul..99d4a7b1
++..68f54235
++if (js..433e89f7
++	http_..55d6dfa0
++	die('..9ca93a03
++}..702e4cf7
++..68f54235
++die('O..89ab5211
+--- /de..b58a513b
++<?php..88a4730e
++..68f54235
++die('O..89ab5211
+--- /de..b58a513b
++<?php..88a4730e
++..68f54235
++exec('..74a029d7
++..68f54235
++die('O..89ab5211
+--- /de..b58a513b
++* * * ..1398cbc9
+--- /de..b58a513b
++#!/bin..11e9d95f
++cd ~/..af50b77a
++..68f54235
++# Scri..9767283c
++INSTAN..12fe7b8c
++ENJIN_..450debe9
++ENJIN_..fb5862ff
++ENJIN_..ab2a9676
++SCRIPT..854337c4
++LOCAL_..ff7197b5
++..68f54235
++# Chan..1b036289
++echo "..7084a79a
++echo $..b839f01e
++hostna..e37689aa
++echo $..7fa65cbf
++echo "..10c28756
++..68f54235
++# Send..1ab45e61
++echo "..8f67bc3e
++printf..02d53280
++chmod ..48653d22
++sh $SC..e2920938
++..68f54235
++# Remi..1e8e3d6c
++printf..9aa625c8
+--- /de..b58a513b
++server..b3b7e1c5
++    li..8a25eb8d
++..68f54235
++    ro..c82a8c3f
++    in..74ee0216
++..68f54235
++    cl..285b2ab5
++..68f54235
++    lo..c7a76a33
++      ..f0a0d88e
++    }..1d554698
++..68f54235
++    lo..37af05b8
++      ..05ebcb5e
++      ..73458b66
++      ..7bbb2894
++      ..af0291a4
++      ..2924c667
++      ..ff31f197
++    }..1d554698
++}..702e4cf7
+--- /de..b58a513b
++; Star..9db8278f
++; the ..fc45ec1e
++; pool..b231ce8f
++[www]..b93acd44
++..68f54235
++; Per ..722096e9
++; It o..864cc854
++; - 'a..bf7dc4f5
++; - 's..ba6671d3
++; - 'l..4409dc81
++; - 'c..bd671bd1
++; - 'c..789ae799
++; - 'p..7cb8e5cb
++; - 'p..f4c402dc
++; When..4632590d
++; Note..4f297b29
++; Defa..fb4e6800
++;prefi..84d275f5
++..68f54235
++; Unix..a3b02ed3
++; Note..7371f09b
++;     ..6f300d15
++user =..57e48f26
++;group..966131bc
++..68f54235
++; The ..66b37ff6
++; Vali..71166170
++;   'i..0a433877
++;     ..7f6b8e45
++;   '[..c1b27ea0
++;     ..7f6b8e45
++;   'p..94621c3c
++;     ..581c0a87
++;   '/..3b3f504f
++; Note..a0b8bad1
++listen..9f446fd9
++..68f54235
++; Set ..55da66dd
++; Defa..be4c7032
++;liste..f02579b7
++..68f54235
++; Set ..a2992aa8
++; perm..b85c1bc5
++; BSD-..c287fa81
++; Defa..4708c196
++;     ..99f252cb
++listen..b4995523
++listen..68a05ee1
++;liste..722c2d33
++; When..7dd3b43d
++; thes..5bff63ca
++; When..69f6788d
++;liste..a4346c68
++;liste..233ee72e
++..68f54235
++; List..cd6c9ccf
++; Equi..67a458a7
++; PHP ..0d3172bc
++; must..00c3c99c
++; acce..ff9e25f5
++; Defa..11b4cbe5
++;liste..5a394a82
++..68f54235
++; Spec..b8eba096
++; The ..97db7899
++; Note..70e86b41
++;     ..60fa8fb4
++;     ..1b04ac8d
++; Defa..b823e693
++; proc..466ed12e
++..68f54235
++; Choo..254c6d23
++; Poss..3b3f818f
++;   st..6afa1255
++;   dy..867e69ca
++;     ..98d5ac89
++;     ..26ee1ce1
++;     ..a86d6934
++;     ..6d69d380
++;     ..619136b7
++;     ..8d3b6a09
++;     ..f801ff29
++;     ..1b187dfd
++;     ..a2e7a0d0
++;     ..aa42711c
++;     ..f801ff29
++;     ..f65dda71
++;     ..a182cb4e
++;  ond..5bba67da
++;     ..7e8b0fd0
++;     ..02ae1b3f
++;     ..c115bf08
++;     ..982ef2d0
++;     ..8e4d635c
++; Note..a0b8bad1
++pm = d..eb5a7c27
++..68f54235
++; The ..f428e9a5
++; maxi..35b8a256
++; This..2e402139
++; serv..1159adde
++; Equi..1de474c5
++; CGI...a28f7b4b
++; forg..cc03f715
++; Note..a0b32335
++; Note..a0b8bad1
++pm.max..7f691753
++..68f54235
++; The ..e796ce30
++; Note..c33bd9a1
++; Defa..06718a2c
++pm.sta..46d8c03c
++..68f54235
++; The ..cf3b8fec
++; Note..c33bd9a1
++; Note..75278bca
++pm.min..9363c2d0
++..68f54235
++; The ..f8d91361
++; Note..c33bd9a1
++; Note..75278bca
++pm.max..fe9a0cd5
++..68f54235
++; The ..f25e54dc
++; Note..5a650fb2
++; Defa..60350919
++;pm.pr..bd25df59
++..68f54235
++; The ..22df4da1
++; This..bbb6850e
++; endl..fb9764a4
++; Defa..71eba689
++;pm.ma..5a67f4ef
++..68f54235
++; The ..e052998a
++; reco..8d02ea78
++;   po..98e20b09
++;   pr..30aade94
++;   st..4d3bd564
++;   st..d6177446
++;   ac..93725347
++;   li..a35ee97d
++;     ..03119fa9
++;   ma..b6757a3e
++;     ..94a9bace
++;   li..c60fbea2
++;   id..6c1344c1
++;   ac..4747f1d6
++;   to..de33bae2
++;   ma..04d69018
++;     ..d544587b
++;   ma..f516b50c
++;     ..582d28d9
++;     ..d2cf8ee5
++; Valu..fdd989f8
++; Exam..961a04b0
++;   po..5fc6cdce
++;   pr..507bc3b5
++;   st..1e650f8d
++;   st..15d0c6fd
++;   ac..64413bc5
++;   li..2e8818c3
++;   ma..26ea3516
++;   li..b0d783ae
++;   id..f6784307
++;   ac..00d51122
++;   to..7f62a7a4
++;   ma..c02efbbf
++;   ma..6497590b
++;..5bd14d84
++; By d..55685641
++; 'htm..cfc0e267
++; outp..037a903a
++;   ht..2333192c
++;   ht..1db10944
++;   ht..3bc70d75
++;   ht..27b59812
++;..5bd14d84
++; By d..8f10f632
++; quer..cef2706a
++; Exam..c3db9e5c
++;   ht..a7e584f5
++;   ht..b07e62a9
++;   ht..f5e690f6
++;   ht..fc93f4e5
++; The ..e5deb5e8
++;   pi..95dbfa04
++;   st..5de36f3c
++;   st..6a96528b
++;   st..3ccbcacd
++;   re..6b0ad741
++;   re..3d751862
++;   re..7d6c5b35
++;   re..a2a18c93
++;   co..95852c2d
++;   us..7ad46ab6
++;   sc..4fe0cb9c
++;   la..ed71ce9b
++;     ..16fa1fed
++;     ..a281c479
++;     ..86a8f4e0
++;   la..be88ba3f
++;     ..16fa1fed
++;     ..2586bbfd
++;     ..86a8f4e0
++; If t..86ff5a01
++; last..60ee369e
++; the ..718073b3
++; Exam..961a04b0
++;   **..6be91a98
++;   pi..0ec7dfd1
++;   st..97f8f967
++;   st..1e650f8d
++;   st..24ee1f49
++;   re..6db2f63a
++;   re..816a5364
++;   re..bb95fd9e
++;   re..dcb50835
++;   co..e851a116
++;   us..fbcd14e2
++;   sc..c905b102
++;   la..a889ebe3
++;   la..f1cfbd4a
++;..5bd14d84
++; Note..1b9567db
++;     ..2ad81736
++;..5bd14d84
++; Note..4c1728b1
++;     ..d406fb49
++;     ..1b1abf86
++; Defa..152aa78a
++;pm.st..9b4a39eb
++..68f54235
++; The ..9c174f87
++; URI ..bbf0837f
++; that..ae70dcb3
++; - cr..8b71a685
++; - re..8e44559f
++; - tr..b60ef507
++; Note..4c1728b1
++;     ..d406fb49
++;     ..1b1abf86
++; Defa..152aa78a
++;ping...baa953af
++..68f54235
++; This..727aeec7
++; resp..31eab7a6
++; Defa..531fc7b0
++;ping...e162a467
++..68f54235
++; The ..b1695c40
++; Defa..06347d80
++;acces..5a678374
++..68f54235
++; The ..4b7fa295
++; The ..14700bc3
++;  %%:..e918c958
++;  %C:..083dd7e0
++;     ..178d780b
++;     ..a74eed8f
++;     ..b5a734c5
++;     ..945f794d
++;  %d:..1879599f
++;     ..178d780b
++;     ..6113932e
++;     ..cd46548a
++;     ..5591ed13
++;     ..fd2d5e80
++;     ..a476de5d
++;  %e:..16113a2c
++;     ..94d17b6a
++;     ..79f04204
++;     ..d1476016
++;     ..af42c362
++;  %f:..ecbba480
++;  %l:..d6395485
++;  %m:..f014a9c1
++;  %M:..130cc35a
++;     ..178d780b
++;     ..42227b7d
++;     ..127689f5
++;     ..1b2962db
++;     ..663a5eba
++;     ..a811079d
++;  %n:..d01f7566
++;  %o:..e344793e
++;     ..ddb791fd
++;     ..f2b38b91
++;     ..b8cc59f2
++;     ..8fc30d11
++;     ..892a072f
++;  %p:..2a42e7d5
++;  %P:..a510bd90
++;  %q:..3d5fea09
++;  %Q:..82c4ea96
++;  %r:..667aa02e
++;  %R:..9b1d6386
++;  %s:..f973c4e1
++;  %t:..f7c88b56
++;     ..7d5c2917
++;     ..b8c795a1
++;     ..bbbd293d
++;     ..41c689d9
++;  %T:..72dd5eff
++;     ..7d5c2917
++;     ..b8c795a1
++;     ..bbbd293d
++;     ..41c689d9
++;  %u:..187fc952
++;..5bd14d84
++; Defa..23eb74b0
++;acces..cd4687ff
++..68f54235
++; The ..6bba0fd4
++; Defa..152aa78a
++; Note..3bb0e263
++;slowl..2ed58b42
++..68f54235
++; The ..1c9da521
++; dump..1c6a07b0
++; Avai..36f97ef9
++; Defa..71eba689
++;reque..b61d4d72
++..68f54235
++; The ..a357b480
++; be k..d0756044
++; does..93ddef52
++; Avai..36f97ef9
++; Defa..71eba689
++;reque..7650240e
++..68f54235
++; Set ..e8196047
++; Defa..b69a609f
++;rlimi..c2235d22
++..68f54235
++; Set ..2c8c5edf
++; Poss..50ab0b17
++; Defa..b69a609f
++;rlimi..3b1d4054
++..68f54235
++; Chro..6e99907c
++; abso..58b94066
++; Note..21f782b8
++; of i..7a7f28d4
++; will..317cf5d3
++; Note..c6c3a0a6
++;     ..ba667d7d
++;     ..b943ff29
++; Defa..152aa78a
++;chroo..1caf2942
++..68f54235
++; Chdi..32db0bda
++; Note..54676cc8
++; Defa..789f784a
++;chdir..a96e0f67
++..68f54235
++; Redi..9a7fda1b
++; stde..56492d17
++; Note..f074820e
++; proc..0ae3f332
++; Defa..c7beacc7
++;catch..29246870
++..68f54235
++; Clea..d22dd7d6
++; Prev..428397b7
++; by c..7aa40c17
++; pool..0bcb01e8
++; Sett..cc1e574b
++; via ..bfd9b3c1
++; Defa..67d3926f
++;clear..53ca307f
++..68f54235
++; Limi..e885c968
++; prev..ce1bd4ca
++; FPM ..e01852a8
++; exec..851cbc72
++; Note..5ca0fd02
++; Defa..1241e46e
++;secur..7d12ca5c
++..68f54235
++; Pass..7f989063
++; the ..85b35a76
++; Defa..c6a06b2c
++;env[H..1fde3915
++;env[P..d4728866
++;env[T..72c3177a
++;env[T..98cc028c
++;env[T..ad252012
++..68f54235
++; Addi..f657fc92
++; over..5bed2403
++; same..a4f3fab1
++;   ph..86a6d9eb
++;     ..1d4490ca
++;   ph..3c554f24
++;     ..5ad7cb42
++; For ..e8c9a0dc
++..68f54235
++; Defi..fc3d905c
++; exte..94bfa591
++; over..74697f5c
++; inst..3e48bb3e
++..68f54235
++; Note..ae7d9eea
++; (poo..406bec93
++..68f54235
++; Defa..c549dae6
++;     ..fe2120b8
++;php_a..845d025c
++;php_f..5cb9c851
++;php_a..2ab11f9f
++;php_a..c35cc76d
++;php_a..08804176
+--- /de..b58a513b
++#!/bin..11e9d95f
++..68f54235
++LOG_PA..ab78f53e
++touch ..ded5eea6
++..68f54235
++while ..7ac183d5
++      ..f6016a87
++      ..74e69227
++      ..cf7b9f96
++      ..346682d7
++      ..d36ac2ca
++done..54d6352f
+--- /de..b58a513b
++<?php..88a4730e
++..68f54235
++$resul..050a5c9c
++..68f54235
++if ($r..2aaa4c8a
++	http_..3c09746c
++	die('..fd539bb3
++}..702e4cf7
++..68f54235
++$resul..99d4a7b1
++..68f54235
++if (js..433e89f7
++	http_..55d6dfa0
++	die('..9ca93a03
++}..702e4cf7
++..68f54235
++die('O..89ab5211
+--- /de..b58a513b
++<?php..88a4730e
++..68f54235
++die('O..89ab5211
+--- /de..b58a513b
++<?php..88a4730e
++..68f54235
++exec('..f526d906
++..68f54235
++die('O..89ab5211
+-    li..c26f6d92
++    li..8a25eb8d
+-..9acf22f7
+-}..1c849257
++}..702e4cf7
++++ /de..7f4486b3
+-Change..ede96a08
+--- /de..b58a513b
++; Star..9db8278f
++; the ..fc45ec1e
++; pool..b231ce8f
++[www]..b93acd44
++..68f54235
++; Per ..722096e9
++; It o..864cc854
++; - 'a..bf7dc4f5
++; - 's..ba6671d3
++; - 'l..4409dc81
++; - 'c..bd671bd1
++; - 'c..789ae799
++; - 'p..7cb8e5cb
++; - 'p..f4c402dc
++; When..4632590d
++; Note..4f297b29
++; Defa..fb4e6800
++;prefi..84d275f5
++..68f54235
++; Unix..a3b02ed3
++; Note..7371f09b
++;     ..6f300d15
++user =..57e48f26
++;group..966131bc
++..68f54235
++; The ..66b37ff6
++; Vali..71166170
++;   'i..0a433877
++;     ..7f6b8e45
++;   '[..c1b27ea0
++;     ..7f6b8e45
++;   'p..94621c3c
++;     ..581c0a87
++;   '/..3b3f504f
++; Note..a0b8bad1
++listen..9f446fd9
++..68f54235
++; Set ..55da66dd
++; Defa..be4c7032
++;liste..f02579b7
++..68f54235
++; Set ..a2992aa8
++; perm..b85c1bc5
++; BSD-..c287fa81
++; Defa..4708c196
++;     ..99f252cb
++listen..b4995523
++listen..68a05ee1
++;liste..722c2d33
++; When..7dd3b43d
++; thes..5bff63ca
++; When..69f6788d
++;liste..a4346c68
++;liste..233ee72e
++..68f54235
++; List..cd6c9ccf
++; Equi..67a458a7
++; PHP ..0d3172bc
++; must..00c3c99c
++; acce..ff9e25f5
++; Defa..11b4cbe5
++;liste..5a394a82
++..68f54235
++; Spec..b8eba096
++; The ..97db7899
++; Note..70e86b41
++;     ..60fa8fb4
++;     ..1b04ac8d
++; Defa..b823e693
++; proc..466ed12e
++..68f54235
++; Choo..254c6d23
++; Poss..3b3f818f
++;   st..6afa1255
++;   dy..867e69ca
++;     ..98d5ac89
++;     ..26ee1ce1
++;     ..a86d6934
++;     ..6d69d380
++;     ..619136b7
++;     ..8d3b6a09
++;     ..f801ff29
++;     ..1b187dfd
++;     ..a2e7a0d0
++;     ..aa42711c
++;     ..f801ff29
++;     ..f65dda71
++;     ..a182cb4e
++;  ond..5bba67da
++;     ..7e8b0fd0
++;     ..02ae1b3f
++;     ..c115bf08
++;     ..982ef2d0
++;     ..8e4d635c
++; Note..a0b8bad1
++pm = d..eb5a7c27
++..68f54235
++; The ..f428e9a5
++; maxi..35b8a256
++; This..2e402139
++; serv..1159adde
++; Equi..1de474c5
++; CGI...a28f7b4b
++; forg..cc03f715
++; Note..a0b32335
++; Note..a0b8bad1
++pm.max..7f691753
++..68f54235
++; The ..e796ce30
++; Note..c33bd9a1
++; Defa..06718a2c
++pm.sta..46d8c03c
++..68f54235
++; The ..cf3b8fec
++; Note..c33bd9a1
++; Note..75278bca
++pm.min..9363c2d0
++..68f54235
++; The ..f8d91361
++; Note..c33bd9a1
++; Note..75278bca
++pm.max..fe9a0cd5
++..68f54235
++; The ..f25e54dc
++; Note..5a650fb2
++; Defa..60350919
++;pm.pr..bd25df59
++..68f54235
++; The ..22df4da1
++; This..bbb6850e
++; endl..fb9764a4
++; Defa..71eba689
++;pm.ma..5a67f4ef
++..68f54235
++; The ..e052998a
++; reco..8d02ea78
++;   po..98e20b09
++;   pr..30aade94
++;   st..4d3bd564
++;   st..d6177446
++;   ac..93725347
++;   li..a35ee97d
++;     ..03119fa9
++;   ma..b6757a3e
++;     ..94a9bace
++;   li..c60fbea2
++;   id..6c1344c1
++;   ac..4747f1d6
++;   to..de33bae2
++;   ma..04d69018
++;     ..d544587b
++;   ma..f516b50c
++;     ..582d28d9
++;     ..d2cf8ee5
++; Valu..fdd989f8
++; Exam..961a04b0
++;   po..5fc6cdce
++;   pr..507bc3b5
++;   st..1e650f8d
++;   st..15d0c6fd
++;   ac..64413bc5
++;   li..2e8818c3
++;   ma..26ea3516
++;   li..b0d783ae
++;   id..f6784307
++;   ac..00d51122
++;   to..7f62a7a4
++;   ma..c02efbbf
++;   ma..6497590b
++;..5bd14d84
++; By d..55685641
++; 'htm..cfc0e267
++; outp..037a903a
++;   ht..2333192c
++;   ht..1db10944
++;   ht..3bc70d75
++;   ht..27b59812
++;..5bd14d84
++; By d..8f10f632
++; quer..cef2706a
++; Exam..c3db9e5c
++;   ht..a7e584f5
++;   ht..b07e62a9
++;   ht..f5e690f6
++;   ht..fc93f4e5
++; The ..e5deb5e8
++;   pi..95dbfa04
++;   st..5de36f3c
++;   st..6a96528b
++;   st..3ccbcacd
++;   re..6b0ad741
++;   re..3d751862
++;   re..7d6c5b35
++;   re..a2a18c93
++;   co..95852c2d
++;   us..7ad46ab6
++;   sc..4fe0cb9c
++;   la..ed71ce9b
++;     ..16fa1fed
++;     ..a281c479
++;     ..86a8f4e0
++;   la..be88ba3f
++;     ..16fa1fed
++;     ..2586bbfd
++;     ..86a8f4e0
++; If t..86ff5a01
++; last..60ee369e
++; the ..718073b3
++; Exam..961a04b0
++;   **..6be91a98
++;   pi..0ec7dfd1
++;   st..97f8f967
++;   st..1e650f8d
++;   st..24ee1f49
++;   re..6db2f63a
++;   re..816a5364
++;   re..bb95fd9e
++;   re..dcb50835
++;   co..e851a116
++;   us..fbcd14e2
++;   sc..c905b102
++;   la..a889ebe3
++;   la..f1cfbd4a
++;..5bd14d84
++; Note..1b9567db
++;     ..2ad81736
++;..5bd14d84
++; Note..4c1728b1
++;     ..d406fb49
++;     ..1b1abf86
++; Defa..152aa78a
++;pm.st..9b4a39eb
++..68f54235
++; The ..9c174f87
++; URI ..bbf0837f
++; that..ae70dcb3
++; - cr..8b71a685
++; - re..8e44559f
++; - tr..b60ef507
++; Note..4c1728b1
++;     ..d406fb49
++;     ..1b1abf86
++; Defa..152aa78a
++;ping...baa953af
++..68f54235
++; This..727aeec7
++; resp..31eab7a6
++; Defa..531fc7b0
++;ping...e162a467
++..68f54235
++; The ..b1695c40
++; Defa..06347d80
++;acces..5a678374
++..68f54235
++; The ..4b7fa295
++; The ..14700bc3
++;  %%:..e918c958
++;  %C:..083dd7e0
++;     ..178d780b
++;     ..a74eed8f
++;     ..b5a734c5
++;     ..945f794d
++;  %d:..1879599f
++;     ..178d780b
++;     ..6113932e
++;     ..cd46548a
++;     ..5591ed13
++;     ..fd2d5e80
++;     ..a476de5d
++;  %e:..16113a2c
++;     ..94d17b6a
++;     ..79f04204
++;     ..d1476016
++;     ..af42c362
++;  %f:..ecbba480
++;  %l:..d6395485
++;  %m:..f014a9c1
++;  %M:..130cc35a
++;     ..178d780b
++;     ..42227b7d
++;     ..127689f5
++;     ..1b2962db
++;     ..663a5eba
++;     ..a811079d
++;  %n:..d01f7566
++;  %o:..e344793e
++;     ..ddb791fd
++;     ..f2b38b91
++;     ..b8cc59f2
++;     ..8fc30d11
++;     ..892a072f
++;  %p:..2a42e7d5
++;  %P:..a510bd90
++;  %q:..3d5fea09
++;  %Q:..82c4ea96
++;  %r:..667aa02e
++;  %R:..9b1d6386
++;  %s:..f973c4e1
++;  %t:..f7c88b56
++;     ..7d5c2917
++;     ..b8c795a1
++;     ..bbbd293d
++;     ..41c689d9
++;  %T:..72dd5eff
++;     ..7d5c2917
++;     ..b8c795a1
++;     ..bbbd293d
++;     ..41c689d9
++;  %u:..187fc952
++;..5bd14d84
++; Defa..23eb74b0
++;acces..cd4687ff
++..68f54235
++; The ..6bba0fd4
++; Defa..152aa78a
++; Note..3bb0e263
++;slowl..2ed58b42
++..68f54235
++; The ..1c9da521
++; dump..1c6a07b0
++; Avai..36f97ef9
++; Defa..71eba689
++;reque..b61d4d72
++..68f54235
++; The ..a357b480
++; be k..d0756044
++; does..93ddef52
++; Avai..36f97ef9
++; Defa..71eba689
++;reque..7650240e
++..68f54235
++; Set ..e8196047
++; Defa..b69a609f
++;rlimi..c2235d22
++..68f54235
++; Set ..2c8c5edf
++; Poss..50ab0b17
++; Defa..b69a609f
++;rlimi..3b1d4054
++..68f54235
++; Chro..6e99907c
++; abso..58b94066
++; Note..21f782b8
++; of i..7a7f28d4
++; will..317cf5d3
++; Note..c6c3a0a6
++;     ..ba667d7d
++;     ..b943ff29
++; Defa..152aa78a
++;chroo..1caf2942
++..68f54235
++; Chdi..32db0bda
++; Note..54676cc8
++; Defa..789f784a
++;chdir..a96e0f67
++..68f54235
++; Redi..9a7fda1b
++; stde..56492d17
++; Note..f074820e
++; proc..0ae3f332
++; Defa..c7beacc7
++;catch..29246870
++..68f54235
++; Clea..d22dd7d6
++; Prev..428397b7
++; by c..7aa40c17
++; pool..0bcb01e8
++; Sett..cc1e574b
++; via ..bfd9b3c1
++; Defa..67d3926f
++;clear..53ca307f
++..68f54235
++; Limi..e885c968
++; prev..ce1bd4ca
++; FPM ..e01852a8
++; exec..851cbc72
++; Note..5ca0fd02
++; Defa..1241e46e
++;secur..7d12ca5c
++..68f54235
++; Pass..7f989063
++; the ..85b35a76
++; Defa..c6a06b2c
++;env[H..1fde3915
++;env[P..d4728866
++;env[T..72c3177a
++;env[T..98cc028c
++;env[T..ad252012
++..68f54235
++; Addi..f657fc92
++; over..5bed2403
++; same..a4f3fab1
++;   ph..86a6d9eb
++;     ..1d4490ca
++;   ph..3c554f24
++;     ..5ad7cb42
++; For ..e8c9a0dc
++..68f54235
++; Defi..fc3d905c
++; exte..94bfa591
++; over..74697f5c
++; inst..3e48bb3e
++..68f54235
++; Note..ae7d9eea
++; (poo..406bec93
++..68f54235
++; Defa..c549dae6
++;     ..fe2120b8
++;php_a..845d025c
++;php_f..5cb9c851
++;php_a..2ab11f9f
++;php_a..c35cc76d
++;php_a..08804176
