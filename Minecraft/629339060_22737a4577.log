@@ -1,0 +1,94 @@
+-group ..0b88e72d
+-versio..20eca315
+-..7085cc03
+-apply ..235a20c5
+-apply ..3b4d4152
+-apply ..2f7b3f81
+-apply ..93afed50
+-apply ..275f3aa0
+-..7085cc03
+-/*..25527d31
+-Enforc..3547210f
+-For ex..e506b9e5
+-*/..a9a4d2f3
+-apply ..9a2da9f5
+-config..87e77fe2
+-..7085cc03
+-idea {..20f33f8a
+-    mo..4fd5b53c
+-      ..031f1068
+-    }..e998ae80
+-}..516bd092
++subpro..37d1ea87
++    ap..6b663437
++    ap..94bd9a97
++    ap..963b0897
++    ap..2a2f67ab
++    ap..5c5560ef
+-tasks...436ab25f
+-artifa..3e0a6916
++    gr..54d3fcdd
++    ve..09c57804
+-tasks...2093d567
+-    cl..8be6f198
+-}..516bd092
++    id..2ac52f85
++      ..076950f2
++      ..ab8da84e
++      ..f226e78a
++    }..388ebce5
+-ext {..1d374971
+-    sp..73838cf7
+-}..516bd092
++    ta..de82c24f
++    ar..a0cffb20
+-reposi..1b0751bb
+-    ma..c911a7ef
+-    ma..cd79d8f5
+-    ma..79bd05c9
+-    ma..388cfc7f
+-}..516bd092
++    ta..dd044a97
++      ..7be53d88
++    }..388ebce5
+-depend..41d6c707
+-    sh..ab953e48
+-}..516bd092
++    re..99e6ec6b
++      ..af158941
++      ..e8e5c6c8
++      ..4a8dcef7
++    }..388ebce5
+-jar {..03fdcbac
+-    ar..2ed328fb
+-}..516bd092
++    ja..d11d46c0
++      ..9968e916
++    }..388ebce5
+-shadow..c7b841db
+-    ar..408f270d
++    sh..04018727
++      ..ae6fbae4
++    }..388ebce5
+-rootPr..fb4559ab
+-..7085cc03
++includ..1d6b96d1
+--- /de..4c76f4a7
++/*..37a7f229
++Enforc..a1fc1621
++For ex..36a46d3a
++*/..41dde110
++apply ..8dbdee70
++config..fe44ecc4
++..003f182c
++ext {..b69bc6e4
++    sp..9b6cb512
++}..150ee7f1
++..003f182c
++reposi..82fe5a11
++    ma..bfc36791
++}..150ee7f1
++..003f182c
++depend..c6bf00d7
++    sh..63f1a0bc
++}..150ee7f1
