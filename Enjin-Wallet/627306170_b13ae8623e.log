@@ -1,0 +1,305 @@
++++ /de..d8b36134
+-CREATE..44cdcf95
+-USE `e..4a948545
+-..c3643d58
+--- ---..ceecc757
+--- Eth..1316443b
+-..c3643d58
+-DROP T..d10ef1f9
+-CREATE..a605a757
+-  `ser..5001a999
+-  `nam..9c6093ab
+-  `las..4223b747
+-  `las..2205a226
+-  PRIM..f8e08e3c
+-) ENGI..fb413314
+-..c3643d58
+-DROP T..73bc220d
+-CREATE..f21d2240
+-	`numb..fe59d995
+-	`time..8d243a4b
+-	`tran..5f9e26ce
+-	`hash..ca9bd33a
+-	`pare..30c7f2d9
+-	`nonc..6bbb11db
+-	`mine..52446e31
+-	`diff..bf7e3b4f
+-	`tota..b2fc87a3
+-	`extr..b9e1c81c
+-	`size..e8573279
+-	`gasL..d30884b0
+-	`gasU..fefd2204
+-	PRIMA..1d6578f8
+-	INDEX..c7b66a9c
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..8ba1a2fb
+-CREATE..cfdf55ba
+-	`hash..ca9bd33a
+-	`bloc..0952a997
+-	`nonc..6bbb11db
+-	`tran..96212d05
+-	`from..0902bf3e
+-	`to` ..03dfc847
+-	`valu..cb785946
+-	`gas`..8fda8b26
+-	`gasP..739349d4
+-	`inpu..985ea110
+-	`cumu..2a6b5785
+-	`gasU..fefd2204
+-	`cont..91194493
+-	`stat..cc8667fa
+-	`erro..869cfdf3
+-	`data..43ea9f4c
+-	PRIMA..612e99b4
+-	INDEX..497b0989
+-	INDEX..5199011d
+-	INDEX..ed1b1638
+-	INDEX..23fe2da1
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-ALTER ..07121f0f
+-ADD IN..1f9bf149
+-ALTER ..d1da672d
+-ALTER ..e82f6a09
+-..c3643d58
+-DROP T..d17494aa
+-CREATE..9d95171e
+-	`logI..21828088
+-	`bloc..32bd2761
+-	`bloc..b6356603
+-	`tran..33143f12
+-	`tran..4426ebb6
+-	`addr..a4cc0da3
+-	`data..840544a2
+-	`topi..818c5930
+-	`topi..f2f384c6
+-	`topi..98ba9e67
+-	`topi..d0d8e0e4
+-	PRIMA..e2b44889
+-	INDEX..be733219
+-	INDEX..6a7d9b41
+-	INDEX..24f76fa0
+-	INDEX..d9a4a3a5
+-	INDEX..0855ca18
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..e604930c
+-CREATE..cfcd4e36
+-	`hash..ca9bd33a
+-	`nonc..6bbb11db
+-	`from..0902bf3e
+-	`to` ..03dfc847
+-	`valu..cb785946
+-	`gas`..8fda8b26
+-	`gasP..739349d4
+-	`inpu..985ea110
+-	PRIMA..612e99b4
+-	INDEX..5199011d
+-	INDEX..0344741a
+-)..055b1ecc
+-	ENGIN..dc9d479d
+-	DEFAU..6fa78ca4
+-..c3643d58
+--- ---..ceecc757
+--- Bit..d4db2276
+-..c3643d58
+-DROP T..66fd317b
+-CREATE..d0782b17
+-	`tid`..069d45f2
+-	`bloc..672719aa
+-	`bloc..b6356603
+-	`fees..7246ca99
+-	`rece..d5423361
+-	`conf..58620da6
+-	`hash..ca9bd33a
+-	`size..066c754b
+-	`to` ..283fd915
+-	`from..4e22e716
+-	PRIMA..bcc21d92
+-	INDEX..234f6f21
+-	INDEX..ffd77fc7
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..bf3a9027
+-CREATE..4b2db818
+-	`tid`..b68085d0
+-	`addr..a4cc0da3
+-	PRIMA..bcc21d92
+-	INDEX..8003be72
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..d7e455c2
+-CREATE..697b10c1
+-	`upda..cc153453
+-	`addr..a4cc0da3
+-	`bala..31e5e106
+-	`tota..63354a33
+-	`tota..54c0a98c
+-	`unco..f9acb7b0
+-	`txre..41405ce6
+-	PRIMA..592c804d
+-	INDEX..a925c33e
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..20399213
+-CREATE..40e20d39
+-	`bloc..672719aa
+-	PRIMA..9d5fddef
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DELETE..4745cffe
+-INSERT..bee48735
+-..c3643d58
+--- ---..ceecc757
+--- Lit..4b1743d6
+-..c3643d58
+-DROP T..7747fcf1
+-CREATE..0d4e2e9f
+-	`tid`..069d45f2
+-	`bloc..672719aa
+-	`bloc..b6356603
+-	`fees..7246ca99
+-	`rece..d5423361
+-	`conf..58620da6
+-	`hash..ca9bd33a
+-	`size..066c754b
+-	`to` ..283fd915
+-	`from..4e22e716
+-	PRIMA..bcc21d92
+-	INDEX..234f6f21
+-	INDEX..ffd77fc7
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..4b7c9c17
+-CREATE..e5b7dece
+-	`tid`..b68085d0
+-	`addr..a4cc0da3
+-	PRIMA..bcc21d92
+-	INDEX..8003be72
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..421e4736
+-CREATE..a8a996ee
+-	`upda..cc153453
+-	`addr..a4cc0da3
+-	`bala..31e5e106
+-	`tota..63354a33
+-	`tota..54c0a98c
+-	`unco..f9acb7b0
+-	`txre..41405ce6
+-	PRIMA..592c804d
+-	INDEX..a925c33e
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DROP T..760343ab
+-CREATE..d369158c
+-	`bloc..672719aa
+-	PRIMA..9d5fddef
+-)..055b1ecc
+-ENGINE..0068f97e
+-DEFAUL..a972f68c
+-..c3643d58
+-DELETE..7a9d217c
+-INSERT..4f8c3d11
+-..c3643d58
+--- ---..ceecc757
+--- exc..ec249756
+-..c3643d58
+-DROP T..362ba9eb
+-CREATE..81c31ccb
+-	`id` ..6f617d64
+-	`name..feeda1b0
+-	`last..8d0ac97e
+-	PRIMA..8b348306
+-)..055b1ecc
+-	ENGIN..dc9d479d
+-	DEFAU..6fa78ca4
+-..c3643d58
+-DROP T..c650fd56
+-CREATE..ce841802
+-	`id` ..6f617d64
+-	`base..19088a26
+-	`quot..1bf041f5
+-	`exch..bb682b19
+-	`last..db0208b3
+-	`24hV..3ec0e55b
+-	PRIMA..b078fcf0
+-	INDEX..d62a113e
+-	INDEX..3d1bd9f7
+-	INDEX..df8142e5
+-	INDEX..450a075d
+-)..055b1ecc
+-	ENGIN..dc9d479d
+-	DEFAU..6fa78ca4
+-..c3643d58
+-..c3643d58
+--- ---..ceecc757
+--- coi..98f86a6c
+-..c3643d58
+-DROP T..8811b0c2
+-CREATE..d194453b
+-	`id` ..6f617d64
+-	`addr..57b42b16
+-	`toke..2b968934
+-	`symb..7334b8c4
+-	`deci..e0e367a5
+-	`name..feeda1b0
+-	`adde..af6ff8ab
+-	`last..71224111
+-	`last..356af0a6
+-	PRIMA..85cba3bd
+-	UNIQU..ed46802f
+-	INDEX..42389175
+-	INDEX..ad14a06c
+-)..055b1ecc
+-	ENGIN..dc9d479d
+-	DEFAU..6fa78ca4
+-..c3643d58
+-DROP T..55e7669b
+-CREATE..49d5a044
+-	`time..61cba241
+-	`data..e34fdd03
+-	PRIMA..a3b1b1bf
+-)..055b1ecc
+-	ENGIN..dc9d479d
+-	DEFAU..6fa78ca4
+-..c3643d58
+-DROP T..63a5bf87
+-CREATE..a8f18c02
+-	`addr..a4cc0da3
+-	`coun..0e44ae37
+-	PRIMA..169364c9
+-)..055b1ecc
+-	ENGIN..dc9d479d
+-	DEFAU..6fa78ca4
+-The mo..ecf31dc9
+-..c3643d58
+-### Co..2f471881
+-..c3643d58
+-`compo..8228671e
+-..c3643d58
+-### Da..0fd55747
+-..c3643d58
+-Run `d..21dc3fd6
++The mo..6cf577c1
