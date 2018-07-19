@@ -1,0 +1,1631 @@
++      ..8eec8248
++      ..7c98c157
++..daa000b9
+-      ..ff888bd7
++      ..abcbcbaf
+-      ..2d93f2e3
+-      ..e6e35d1d
++      ..433fe067
+-      ..5ca86daa
+-      ..7c217789
++      ..b3c60a33
+-      ..3b700658
++      ..0120f6fa
+-      ..8aad7a3a
++      ..a79001bf
+-import..fb453dab
+-..84da5595
+-    st..66d5c6ad
+-..84da5595
+-    /*..24b33e81
+-     *..21584b6f
+-     *..e8e24c67
+-    st..cfab6a00
+-      ..a9f56495
+-      ..6b2e78cb
+-      ..661cb49e
+-      ..d2a55bdc
+-      ..7176ddfc
+-      ..bd49b6fb
+-      ..d2a55bdc
+-    }..bb42c712
+-..84da5595
+-    pu..08f49f7b
+-      ..d6561a76
++    pu..32a2ed61
++      ..f6bf7654
++..daa000b9
+-      ..6536f02c
++      ..da525e9d
+-using ..7e0966b8
++using ..d618e032
++using ..997be2ce
++using ..e7cd3b6f
++using ..e32227ac
++      ..90374e28
++      ..fa73600d
++      ..2f72a18f
++      ..2e647b7f
++      ..5f83384b
++      ..44f0964c
++      ..b7ddc9b3
++      ..30c8849a
++      ..99ea85ac
++      ..196f424d
++..daa000b9
+-      ..81379ac9
++      ..9276e720
+-      ..4e41cc6b
+-      ..5573c4e0
+-      ..72fb43c0
++      ..592d627d
++      ..706bd1b8
+-      ..cbc75991
+-      ..d87b127b
++      ..1926f61b
++      ..a61c6276
+-      ..2b576c24
++      ..4c2ed094
++      ..2291b5d3
++      ..94f49e25
++      ..ceaff775
++      ..fad214ec
++      ..a0b68eaf
++..daa000b9
++      ..b94795a8
++      ..7d34ff3b
++      ..f0a27871
++      ..4f06ab4e
++      ..a3c91881
++      ..681994ac
++      ..c2ef7c99
++..daa000b9
++      ..c222dd96
++      ..1b69e009
++      ..17f03afe
++..daa000b9
++      ..63e85f4d
++      ..2ddb443a
++      ..4f3f8ff1
++      ..2d7a7c52
++      ..8cd7fe01
++      ..7bb17f5f
++..daa000b9
++      ..1b40bddd
++      ..1b7fee08
++      ..f880d322
++..daa000b9
++      ..a6f3b8b0
++      ..eb71080b
++      ..b42c6078
++..daa000b9
++      ..c94312b5
++      ..d2ffecb3
++      ..40a6b583
++      ..b1deea70
++      ..583a5b70
+-      ..4e41cc6b
++      ..592d627d
++      ..a53d4684
++      ..681994ac
++      ..a61c6276
++      ..d8e6aaba
++      ..2e8c6359
++      ..69db28ef
++      ..2fab1ceb
++      ..583a5b70
++..daa000b9
++      ..4f3f5dc9
++      ..fe1b24f3
++      ..a3c91881
+-      ..aaba1172
+-      ..2d3f25a5
++      ..f605ef4b
++..daa000b9
++      ..8797100c
++      ..f3988aad
++      ..02da69e1
++      ..cd95deca
+-      ..fb075693
+-      ..fffd0a7f
+-..84da5595
+-      ..eef585d4
+-..84da5595
+-      ..c1a3cf65
+-..84da5595
+-      ..7b77caa9
+-      ..0a331363
+-      ..d60b15f9
+-      ..779784dc
+-      ..f20ad53f
++      ..8c671dcd
+-      ..85405f99
++      ..061d760e
+-	bool ..35930777
++bool c..205298e2
++{..69df7339
++	retur..9dd01d53
++}..1ef2828e
++..daa000b9
++bool c..2756f489
++{..69df7339
++	retur..7b9c5dde
++}..1ef2828e
++..daa000b9
++bool c..27defbae
++{..69df7339
++	retur..ee6e315e
++}..1ef2828e
++..daa000b9
++bool e..be61d043
++{..69df7339
++	pubKe..1a4c42e8
++	int r..d1352324
++	pubKe..6a38bb00
++	retur..a77b2083
++}..1ef2828e
++..daa000b9
++Secure..8aba70ce
++{..69df7339
++	if (!..60fe38e5
++		retu..4ab6425d
++	Secur..378f6329
++	pubKe..1a4c42e8
++	int r..9902f4d8
++	     ..e0b6c6c2
++	pubKe..6a38bb00
++	if (r..3693a7cb
+-		retu..bbf06bd2
++		dele..4e45be5a
++		retu..4ab6425d
++	resul..e4a0b98d
++	retur..3a846cb1
++}..1ef2828e
+-	bool ..8c9047d9
++Secure..72828001
++{..69df7339
++	if (!..ab6e2a4a
++		retu..4ab6425d
++	Secur..00224b35
++	privK..0836080e
++	int r..0ed2e90b
++	     ..8b75bb49
++	privK..42dfaad7
++	if (r..3693a7cb
+-		retu..024aa645
++		dele..4e45be5a
++		retu..4ab6425d
++	resul..e4a0b98d
++	retur..3a846cb1
++}..1ef2828e
++..daa000b9
++size_t..c3f86eda
++{..69df7339
++	struc..26688fca
++	retur..1571465f
++}..1ef2828e
++..daa000b9
++const ..900513d2
++{..69df7339
++	struc..26688fca
++	const..02802c3b
++	size ..cc139dee
++	retur..eea13a97
++}..1ef2828e
+-	bool ..4e5c6cec
++Secure..372b5648
++      ..a37daefc
++{..69df7339
++	Secur..245a985a
++	int r..22aff57d
++	if (s..2c5d8c54
++	{..ecbf8f79
++		size..0c4ebb90
++		arr ..0d5ae402
++		secu..0e37a4f0
++		resu..9a48a034
++		secu..0c0d3071
++	}..eb5e12e8
++	else..2f7f8d3b
+-		retu..0b0779f0
++		size..ac5c7eb0
++		arr ..0d5ae402
++		resu..0714e1de
++	if (r..fd15785a
++		retu..88d05ada
++	walle..ef555169
++	walle..82b54cea
++	retur..623316f0
++}..1ef2828e
++..daa000b9
++Secure..e3fc73d1
++{..69df7339
++	unsig..f9256294
++	gener..09436ec2
++	Secur..d6e514f4
++	walle..61bcac54
++	retur..3a846cb1
++}..1ef2828e
+-	bool ..c069847c
++Secure..490e64b9
++{..69df7339
++	if (!..a98a3c59
++		retu..4ab6425d
++	retur..1706638f
++}..1ef2828e
++..daa000b9
++Secure..72564d82
++{..69df7339
++	size_..9570386d
++	Secur..9220291c
++	int r..09af0c76
++	if (r..3693a7cb
+-		pubK..d74e588e
+-		int ..78029b20
+-		pubK..7e3b84ca
+-		retu..7c951838
++		dele..4e45be5a
++		retu..4ab6425d
++	resul..e4a0b98d
++	retur..3a846cb1
++}..1ef2828e
+-	Secur..f9eebf39
++Secure..be53812a
++{..69df7339
++	Secur..f99bc825
++	int r..ddf8f895
++	if (r..e9564551
+-		if (..528b3b49
+-			ret..07ea40ad
+-		Secu..b8eef0cf
+-		pubK..d74e588e
+-		int ..12f5f3a6
+-			EC_..89e0bbc8
+-		pubK..7e3b84ca
+-		if (..6c024466
+-		{..35d33b27
+-			del..8a851454
+-			ret..07ea40ad
+-		}..e80774fa
+-	Secur..a0ec1390
++	delet..197ff69a
++	retur..623316f0
++}..1ef2828e
++..daa000b9
++Secure..766a9bf4
++{..69df7339
++	if (!..d2ba9000
++		retu..4ab6425d
++	size_..ed3f82a1
++	Secur..39ee51a0
++	if (!..f1e11154
++		retu..4ab6425d
++..daa000b9
++	Secur..f99bc825
++	int r..ddf8f895
++	for (..e33562a3
++		dele..9e39fdc7
++	walle..cfcaca1f
++..daa000b9
++	if (r..e9564551
+-		if (..85d9d659
+-			ret..07ea40ad
+-		Secu..945a57bd
+-		priv..8083fbb5
+-		int ..7838efce
+-			EC_..54875e03
+-		priv..01ac4f47
+-		if (..6c024466
+-		{..35d33b27
+-			del..8a851454
+-			ret..07ea40ad
+-		}..e80774fa
+-	size_..e9325032
+-	{..85650ca1
+-		stru..c48bbd44
+-		retu..054aa8a5
+-	}..9e115af6
++	delet..197ff69a
++	retur..623316f0
++}..1ef2828e
+-	const..7cc7ebbf
+-	{..85650ca1
+-		stru..c48bbd44
+-		cons..962cf962
+-		size..2a47782a
+-		retu..1fb3b4ee
+-	}..9e115af6
++bool b..51694fb6
++{..69df7339
++	retur..a44a9b46
++}..1ef2828e
+-	Secur..1d85f008
+-		size..5c18e266
+-	{..85650ca1
+-		Secu..4c250648
+-		int ..4c97a56f
+-		if (..40accb43
+-		{..35d33b27
+-			siz..5e7dfdf2
+-			arr..ec0a5b39
+-			sec..7a929063
+-			res..feddc781
+-			sec..c44cdd36
+-		}..e80774fa
+-		else..19b887db
+-		{..35d33b27
+-			siz..997a191d
+-			arr..ec0a5b39
+-			res..474a60ca
+-		}..e80774fa
+-		if (..d9598dec
+-			ret..0edd99a6
+-		wall..f66936de
+-		wall..5e0205c4
+-		retu..059acd92
+-	}..9e115af6
++static..70660e09
++{..69df7339
++	retur..d18b8db0
++}..1ef2828e
++..daa000b9
++static..55550cac
++{..69df7339
++	key->..da4a127c
++	key->..3568273f
++	key->..f8f9b61c
++	key->..bd99893e
++}..1ef2828e
+-	Secur..3daad8fa
++static..f5c862a2
++{..69df7339
++	if (e..fe29e983
++		retu..11ed5f9f
++	if (b..255e9769
+-		unsi..091d13ef
+-		gene..94ef7a9c
+-		Secu..7c3bd8ce
+-		wall..b8776e7c
+-		retu..5b8b3210
++		extK..422f66bb
+-..84da5595
+-	Secur..979fa992
++	if (!..376bab17
+-		if (..d4a32465
+-			ret..07ea40ad
+-		retu..72441e61
++		extK..b088f2c9
+-..84da5595
+-	Secur..c65e7f63
++	if (!..3fc803cf
+-		size..6d3bf0eb
+-		Secu..933d7202
+-		int ..c3f5265c
+-		if (..6c024466
+-		{..35d33b27
+-			del..8a851454
+-			ret..07ea40ad
+-		}..e80774fa
+-		resu..ce3bcc16
+-		retu..5b8b3210
++		extK..59ee2630
++	unsig..b77ec40d
++	walle..0abbd837
++	walle..d1e2678f
++	walle..97f4524d
++	extKe..99c64602
++	extKe..cb0d8a73
++}..1ef2828e
+-	Secur..7ec6a82d
+-	{..85650ca1
+-		Secu..3483f2f5
+-		int ..fbb39e6b
+-		if (..f55e2b88
+-		{..35d33b27
+-			res..1aa5c271
+-			ret..301c42c5
+-		}..e80774fa
++static..a3d18102
++{..69df7339
++	if (!..c85ac7de
++		retu..11ed5f9f
++	if (e..313ba423
++		secu..befa998b
++	secur..b3944ad0
++	secur..8b360ee7
++	extKe..74f95489
++}..1ef2828e
+-		dele..c7d5e3a8
++struct..bcdaa688
++      ..5a72f5f4
++{..69df7339
++	if ((..cc4f5d9d
+-	}..9e115af6
+-..84da5595
+-	Secur..a7a86be5
++	bool ..1ab26ac0
++	if (!..3f2bf18e
+-		if (..f6f2e475
+-			ret..07ea40ad
+-		size..67e639e7
+-		Secu..fa0b4505
++		word..28a2f88f
++	}..eb5e12e8
++	unsig..df231f5f
++	int r..c9ecf5ef
+-		Secu..3483f2f5
+-		int ..fbb39e6b
++	if (!..3f2bf18e
++	{..ecbf8f79
+-..84da5595
+-		if (..f55e2b88
+-		{..35d33b27
+-			res..1aa5c271
+-			ret..301c42c5
+-		}..e80774fa
+-..84da5595
+-		dele..c7d5e3a8
+-		retu..059acd92
+-	bool ..37d98c27
+-	{..85650ca1
+-		retu..0095b1f8
+-	}..9e115af6
++	if (r..3693a7cb
++		retu..4ab6425d
+-	stati..3e724d67
+-	{..85650ca1
+-		retu..4232263f
+-	}..9e115af6
++	struc..5a7c2192
++	r = b..c3c40979
++	walle..7ac7d36f
+-	stati..052e1520
++	if (r..3693a7cb
+-		key-..1b329098
+-		key-..f62193ed
+-		key-..bc33939d
+-		key-..52c74b7a
++		wall..a4177b39
++		retu..4ab6425d
+-	stati..68accd4d
++	struc..d65a2563
++	for (..1099fd8b
+-		if (..87c632f6
+-			ret..75bea3c9
+-		if (..aba6285d
+-		{..35d33b27
+-			ext..ef0b68f9
+-		}..e80774fa
+-		if (..a860694f
+-		{..35d33b27
+-			ext..fbc29934
+-		}..e80774fa
+-		if (..f14c19df
+-		{..35d33b27
+-			ext..e9e406b5
+-		}..e80774fa
+-		unsi..461869a1
+-		wall..87341ed1
+-		wall..7034f3f6
+-		wall..c1cee03e
+-		extK..9da3cca3
+-		extK..537d8d7a
++		if (..b25fb666
++			ret..7fa0f876
++		wall..a4177b39
++		key ..d90709e2
++		wall..3dd19fee
+-	stati..1d8fd43b
+-	{..85650ca1
+-		if (..63f3fccf
+-			ret..75bea3c9
+-		if (..6e2a3bdf
+-			sec..41a4f850
+-		secu..035c2c29
+-		secu..efca42fd
+-		extK..ce69a47d
+-	}..9e115af6
++	bip32..f902070d
++	struc..fa23a514
++	memcp..4cf669e6
++	walle..29696938
++	bip32..48044440
++	retur..3a846cb1
++}..1ef2828e
+-	struc..ca2a2be0
+-		size..c9f52de1
+-	{..85650ca1
+-		if (..c46a0a57
+-			ret..07ea40ad
+-		bool..d1abfeb6
+-		if (..18d4d759
+-		{..35d33b27
+-			wor..7eb2452f
+-			if ..4f091cb4
+-				re..fc0757c2
+-		}..e80774fa
+-		unsi..e360c55f
+-		int ..c0342977
++struct..4d932cd8
++{..69df7339
++	if (!..bfb96387
++		retu..4ab6425d
++	retur..69e22881
++}..1ef2828e
+-		if (..18d4d759
+-		{..35d33b27
+-			for..f1c05db9
+-				de..2c1cebf7
+-			wal..ad98ddfb
+-		}..e80774fa
++struct..e5ff63af
++{..69df7339
++	if (!..7e30f44d
++		retu..4ab6425d
++	retur..30aeffe9
++}..1ef2828e
+-		if (..6c024466
+-			ret..07ea40ad
++void* ..d16a8528
++{..69df7339
++	if (!..2d3861db
++		retu..4ab6425d
++	if (i..bda9da77
++		retu..7b851ed7
++	retur..934d78cd
++}..1ef2828e
+-		stru..5c000413
+-		r = ..ce2fa3b0
+-		wall..7d90f5e3
++void b..0159f124
++{..69df7339
++	memcp..81b58a15
++}..1ef2828e
+-		if (..6c024466
+-		{..35d33b27
+-			wal..ff13059d
++struct..f8874228
++{..69df7339
++	if (!..e88603ae
++		retu..4ab6425d
++	struc..bfc7fbc9
++	bip32..de520a7d
++	memcp..92a04229
++	bip32..0b58954a
++	uint3..13b7751c
++	for (..1099fd8b
++	{..ecbf8f79
++		if (..833e75cb
+-		}..e80774fa
+-..84da5595
+-		stru..1a4dbc31
+-		for ..f527354f
+-		{..35d33b27
+-			if ..1e676b06
+-				re..fc0757c2
+-			wal..ff13059d
+-			key..5acf3f38
+-			wal..263cdeae
+-		}..e80774fa
+-..84da5595
+-		bip3..2066b489
+-		stru..095ebe29
+-		memc..ab1f89c0
+-		bip3..e528f718
+-		retu..5b8b3210
++		key ..d90709e2
++		wall..3dd19fee
+-	struc..29c7dbec
+-	{..85650ca1
+-		if (..37fdcc08
+-			ret..07ea40ad
+-		retu..70f551ba
+-	}..9e115af6
++	bip32..f902070d
++	struc..fa23a514
++	memcp..4cf669e6
++	walle..29696938
++	bip32..48044440
++	retur..3a846cb1
++}..1ef2828e
+-	struc..76b59c94
+-	{..85650ca1
+-		if (..798550ef
+-			ret..07ea40ad
+-		retu..899d02a3
+-	}..9e115af6
++struct..140b4f47
++{..69df7339
++	if (!..343dc5a7
++		retu..4ab6425d
++	struc..fa23a514
++	bip32..59792b0c
++	memcp..6a03a994
++	bip32..ee84b730
++	bip32..faa82d91
++	walle..42d64388
++	resul..795194ae
++	bip32..48044440
++	retur..3a846cb1
++}..1ef2828e
+-	void*..309c023f
+-	{..85650ca1
+-		if (..e74049b3
+-			ret..07ea40ad
+-		if (..490c64e8
+-			ret..e59c8b88
+-		retu..674d9ee1
+-	}..9e115af6
++void b..b67c3fb6
++{..69df7339
++	if (!..2d3861db
++		retu..11ed5f9f
++	if (e..313ba423
++		dele..5b0af9c8
++	if (e..da4623c4
++		dele..820948b8
++	if (e..1208f9df
++		dele..703f4639
++	walle..42c33631
++	walle..7477ed7a
++}..1ef2828e
+-	void ..f29de2c2
++Secure..3a1079bb
++{..69df7339
++	if (!..2d3861db
++		retu..4ab6425d
++	Secur..b6b11021
++	bip32..de520a7d
++	bool ..fa90bff9
++	     ..6cd61305
++	bip32..0b58954a
++	if (!..8b5a5aac
+-		memc..af9b9e72
++		dele..31229cdc
++		retu..4ab6425d
++	array..c4c3608e
++	retur..cbf395be
++}..1ef2828e
+-	struc..861fa72e
+-	{..85650ca1
+-		if (..4330f8af
+-			ret..07ea40ad
+-		stru..cafcef17
+-		bip3..6acfe6f9
+-		memc..9bc87ca3
+-		bip3..c705ae19
+-		uint..386cee2f
+-		for ..f527354f
+-		{..35d33b27
+-			if ..5de5561b
+-				re..fc0757c2
+-			wal..ff13059d
+-			key..5acf3f38
+-			wal..263cdeae
+-		}..e80774fa
++struct..83895d74
++{..69df7339
++	if (!..2d3861db
++		retu..4ab6425d
++	struc..5a7c2192
++	extKe..d1f3ad99
++	int r..b6773279
++	extKe..51086d46
++	if (r..3693a7cb
++		retu..4ab6425d
+-		bip3..2066b489
+-		stru..095ebe29
+-		memc..ab1f89c0
+-		wall..c6e0e2a7
+-		bip3..e528f718
+-		retu..5b8b3210
+-	}..9e115af6
++	isPri..bbf56492
++	bip32..f902070d
++	struc..fa23a514
++	memcp..4cf669e6
++	walle..29696938
++	bip32..48044440
++	retur..3a846cb1
++}..1ef2828e
+-	struc..3222461d
+-	{..85650ca1
+-		if (..a05f8fb9
+-			ret..07ea40ad
+-		stru..095ebe29
+-		bip3..6a289786
+-		memc..dcaa3b86
+-		bip3..795fadc2
+-		bip3..f808b87e
+-		wall..4ce678d0
+-		resu..395fcc14
+-		bip3..e528f718
+-		retu..5b8b3210
+-	}..9e115af6
++Secure..734a14b9
++{..69df7339
++	if (!..1135b548
++		retu..4ab6425d
+-	void ..414a1197
+-	{..85650ca1
+-		if (..e74049b3
+-			ret..75bea3c9
+-		if (..6e2a3bdf
+-			del..46f153c2
+-		if (..36c9c202
+-			del..cfd50327
+-		if (..bafde0a1
+-			del..69b6cf2c
+-		wall..577cc567
+-		wall..3a395a03
+-	}..9e115af6
++	unsig..780a7e7f
++	size_..8552d827
++	Secur..9a3a5d1f
++	const..d96e2bc0
++	delet..e1dbfd6e
+-	Secur..cb54a5b5
++	if (r..258251a4
+-		if (..e74049b3
+-			ret..07ea40ad
+-		Secu..e31ed1c3
+-		bip3..6acfe6f9
+-		bool..8e3d4539
+-			BIP..e40192ee
+-		bip3..c705ae19
+-		if (..4e17e321
+-		{..35d33b27
+-			del..7aeb9e27
+-			ret..07ea40ad
+-		}..e80774fa
+-		arra..fba404b3
+-		retu..bd7f0dbc
++		wall..f13394ae
++		retu..4ab6425d
+-	struc..8f0eca08
+-	{..85650ca1
+-		if (..e74049b3
+-			ret..07ea40ad
+-		stru..5c000413
+-		extK..45b9eb89
+-		int ..803cb558
+-		extK..73f2b203
+-		if (..6c024466
+-			ret..07ea40ad
++	Secur..63527f20
++	walle..36dab673
++	retur..3a846cb1
++}..1ef2828e
+-		isPr..a81404dc
+-		bip3..2066b489
+-		stru..095ebe29
+-		memc..ab1f89c0
+-		wall..c6e0e2a7
+-		bip3..e528f718
+-		retu..5b8b3210
+-	}..9e115af6
++Secure..0629c203
++{..69df7339
++	if (!..1135b548
++		retu..4ab6425d
++	unsig..27a1dbab
++	size_..8552d827
++	Secur..26d4837f
++	const..72bc070e
++	delet..678f6058
+-	Secur..44cb287b
++	if (r..3693a7cb
+-		if (..694cd50a
+-			ret..07ea40ad
+-..84da5595
+-		unsi..665fe86d
+-		size..b9718d2c
+-		Secu..4e5fc9b4
+-		cons..87c1ab64
+-		dele..3c7560f8
+-..84da5595
+-		if (..9e2602f2
+-		{..35d33b27
+-			wal..174671db
+-			ret..07ea40ad
+-		}..e80774fa
+-..84da5595
+-		Secu..40773c89
+-		retu..5b8b3210
++		retu..4ab6425d
+-	Secur..31f40734
+-	{..85650ca1
+-		if (..694cd50a
+-			ret..07ea40ad
+-		unsi..40b66aae
+-		size..b9718d2c
+-		Secu..6842a32c
+-		cons..92c8da93
+-		dele..9b854518
++	Secur..7277ebfc
++	walle..36dab673
++	retur..3a846cb1
++}..1ef2828e
+-		if (..6c024466
+-		{..35d33b27
+-			wal..174671db
+-			ret..07ea40ad
+-		}..e80774fa
++bool b..d8fea9a3
++{..69df7339
++	if (!..207c5250
++		retu..fd21aae1
++	Secur..1ee672d3
++	priva..999c5cca
++	int r..91e6f316
++	     ..23c6d96c
++	     ..192c85f2
++	delet..79cb69a3
++	priva..d14cec55
++	retur..a77b2083
++}..1ef2828e
+-		Secu..be863da1
+-		wall..e2008024
+-		retu..5b8b3210
++Secure..742e921f
++{..69df7339
++	if (!..4870b0f2
++		retu..4ab6425d
++	Secur..f83f564f
++	Secur..1ee672d3
++	int r..6603920b
++	     ..f3861272
++	     ..d2180898
++	delet..79cb69a3
++..daa000b9
++	if (r..3693a7cb
++	{..ecbf8f79
++		dele..31229cdc
++		retu..4ab6425d
++	array..c4c3608e
++	retur..cbf395be
++}..1ef2828e
+-	bool ..535ce841
++bool e..d1c8fa58
++      ..a51d9d96
++{..69df7339
++	if (!..361ad100
++		retu..4ab6425d
++	secp2..ff6f09a6
++	unsig..7e4c718a
++	const..e26df0c6
++	size_..d46ffd89
++	bool ..d6ad3d83
++..daa000b9
++	privK..0836080e
++	ok = ..03ddad41
++	     ..3b5ad844
++	     ..e02f74ff
++	if (o..0d6b95ec
++		ok =..aa4123a1
++	privK..42dfaad7
++	if (!..cf1fa7a8
+-		if (..bfc816da
+-			ret..aede7592
+-		Secu..e07880f6
+-		priv..46c1770a
+-		int ..00211a20
+-			0, ..b1fa23f2
+-		dele..2b083178
+-		priv..e38e78d8
+-		retu..7c951838
++		wall..f0159a7c
++		wall..bd69c37f
++		retu..fd21aae1
+-	Secur..743e8cae
+-	{..85650ca1
+-		if (..fb3b4426
+-			ret..07ea40ad
+-		Secu..c3a9a674
+-		Secu..e07880f6
+-		int ..38626cc1
+-			arr..fac5e6b5
+-		dele..2b083178
++	ok = ..a5196f52
+-		if (..6c024466
++	secp2..f105433c
++	secp2..be9c73d5
++	secp2..99b35c01
++	for (..11e7f003
++	{..ecbf8f79
++		sign..6a4bd7a0
++		if (..215f284b
+-			del..7aeb9e27
+-			ret..07ea40ad
++			rec..569a28b4
++			ok ..3c33d22c
++			bre..41083f2a
+-		arra..fba404b3
+-		retu..bd7f0dbc
++	walle..129fe14a
++	walle..e5fc0fe1
++	walle..c104020a
+-	bool ..765e73fa
+-		unsi..6ef243d8
++	if (o..0d6b95ec
+-		if (..3044efcb
+-			ret..07ea40ad
+-		secp..28a59b31
+-		unsi..ad3ed081
+-		cons..cad0804c
+-		size..f88aeba6
+-		bool..cf80686f
+-..84da5595
+-		priv..8083fbb5
+-		ok =..15fc1c8e
+-			EC_..f073b8c5
+-		if (..7ce0ec82
+-			ok ..2b07d7c0
+-		priv..01ac4f47
+-		if (..69041c7c
+-		{..35d33b27
+-			wal..23af9a0b
+-			wal..e0baee94
+-			ret..aede7592
+-		}..e80774fa
+-..84da5595
+-		ok =..4a653e51
+-..84da5595
+-		secp..98fe7d80
+-		secp..6bf6c079
+-		secp..c034a663
+-		for ..b1e14624
+-		{..35d33b27
+-			sig..bd0cb47b
+-			if ..a0fe9251
+-			{..3cff4b4f
+-				re..b83dc0ee
+-				ok..a50aefba
+-				br..c98677ce
+-			}..a9f9d223
+-		}..e80774fa
+-		wall..2eb7f9d0
+-		wall..9bc42063
+-		wall..adeb2050
+-..84da5595
+-		if (..7ce0ec82
+-		{..35d33b27
+-			mem..f9199f3f
+-			mem..d23dada5
+-		}..e80774fa
+-..84da5595
+-		wall..b1d7369e
+-		retu..07fc0899
++		memc..b19b41eb
++		memc..fb78ee50
+-	bool ..93de7074
+-		size..6fce49a9
+-	{..85650ca1
+-		if (..9814496d
+-			ret..07ea40ad
+-		bool..cf80686f
+-		secp..d01c73c8
+-		cons..cad0804c
+-		priv..8083fbb5
+-		ok =..daed5a8a
+-		if (..7ce0ec82
+-			ok ..fa5fb933
++	walle..79b6285a
++	retur..1e7b52f3
++}..1ef2828e
++..daa000b9
++bool b..aa489636
++      ..b0529ce0
++{..69df7339
++	if (!..394a8e24
++		retu..4ab6425d
++	bool ..d6ad3d83
++	secp2..34cfaa65
++	const..e26df0c6
++	privK..0836080e
++	ok = ..555809aa
++	if (o..0d6b95ec
++		ok =..94e14ba9
++		    ..696aa617
+-		priv..01ac4f47
+-		if (..69041c7c
+-		{..35d33b27
+-			wal..23af9a0b
+-			wal..c955f709
+-			ret..aede7592
+-		}..e80774fa
+-		sign..50010127
+-		ok =..d10b4cb9
++	privK..42dfaad7
++	if (!..cf1fa7a8
++	{..ecbf8f79
+-		if (..69041c7c
+-			wal..c955f709
+-		retu..07fc0899
++		wall..bcffa738
++		retu..fd21aae1
++	signa..ec531c39
++	ok = ..1d4ef317
++	walle..79b6285a
++	if (!..cf1fa7a8
++		wall..bcffa738
++	retur..1e7b52f3
++}..1ef2828e
+-	stati..8cd60dd8
++static..31267291
++      ..322d3b80
++{..69df7339
++	unsig..9cf8363b
++	memcp..97666029
++	memcp..a8a10f57
++	calcu..142a00f5
++	walle..738151b8
++	walle..b74f8a33
++}..1ef2828e
++..daa000b9
++static..257f147d
++      ..883741cd
++{..69df7339
++	unsig..7e811854
++	keyst..46608c9b
++	if (m..38417169
+-		unsi..48fd95b2
+-		memc..0843c5d3
+-		memc..f261145b
+-		calc..2a6e51cf
+-		wall..55b85441
+-		wall..b856cf60
++		wall..deecd0c2
++		wall..3482ab5e
++		wall..c064fe28
++		retu..4ab6425d
+-	stati..df3c0646
+-		size..99353bbe
+-	{..85650ca1
+-		unsi..c43ccae8
+-		keys..2e930489
+-		if (..1eca648e
+-		{..35d33b27
+-			wal..e3fa2808
+-			wal..91bd5c30
+-			wal..118519fd
+-			ret..07ea40ad
+-		}..e80774fa
++	walle..1f07a672
+-		wall..a351df27
++	WORD ..5b753810
++	aes_k..b18e47b6
++	walle..42eb90d0
++	walle..c4b35503
+-		WORD..675a22b3
+-		aes_..60fe28ba
+-		wall..24da6d34
+-		wall..7f06a39c
++	Secur..7dba810c
++	aes_d..1aa08b44
++	walle..a3158831
++	resul..e4a0b98d
++	retur..3a846cb1
++}..1ef2828e
+-		Secu..e85a0fcf
+-		aes_..e0969c40
+-		wall..8c9c7a0a
+-		resu..ce3bcc16
+-		retu..5b8b3210
+-	}..9e115af6
++Secure..29569e9a
++      ..65eb47da
++      ..2896e7d3
++{..69df7339
++	if (!..6e514ccc
++		retu..4ab6425d
++	unsig..4773f61a
++	Secur..5bbd1275
++	walle..4387f028
++	     ..a16f7767
++	delet..2726058b
++	retur..30ddc3f2
++}..1ef2828e
+-	Secur..a4374166
+-		unsi..0ea2e02f
++Secure..0452ef74
++      ..a5e8e9a3
++      ..210d8a9e
++      ..ce0fe60f
++{..69df7339
++	if (!..6e514ccc
++		retu..4ab6425d
++	unsig..4773f61a
++	Secur..5bbd1275
++	int r..40278ddc
++	     ..5f1c466a
++	delet..2726058b
++	if (r..3693a7cb
+-		if (..627856b2
+-			ret..07ea40ad
+-		unsi..99e89b4d
+-		Secu..6b5c50da
+-		wall..21d9a22a
+-		dele..ab3d3b2e
+-		retu..42a2a006
++		wall..deecd0c2
++		wall..3482ab5e
++		retu..4ab6425d
++	retur..30ddc3f2
++}..1ef2828e
+-	Secur..983ee50a
+-		unsi..ab622a85
++bool k..b7edbe2e
++      ..ff7c5cc0
++      ..bd8e6492
++{..69df7339
++	if (!..9e2afcc3
++		retu..fd21aae1
++	gener..8442cc91
++	gener..463d8632
++	unsig..4773f61a
++	Secur..5bbd1275
++	int r..1c1d4454
++	     ..5f1c466a
++	delet..2726058b
++	if (r..3693a7cb
+-		if (..627856b2
+-			ret..07ea40ad
+-		unsi..99e89b4d
+-		Secu..6b5c50da
+-		int ..01845daa
+-		dele..ab3d3b2e
+-		if (..6c024466
+-		{..35d33b27
+-			wal..e3fa2808
+-			wal..91bd5c30
+-			ret..07ea40ad
+-		}..e80774fa
+-		retu..42a2a006
++		wall..deecd0c2
++		wall..3482ab5e
++		retu..fd21aae1
+-	bool ..30c29353
+-		unsi..c6f8e19d
+-	{..85650ca1
+-		if (..23c11066
+-			ret..aede7592
+-		gene..9ac251f1
+-		gene..c6cf0592
+-		unsi..99e89b4d
+-		Secu..6b5c50da
+-		int ..d4cfd6cc
+-		dele..ab3d3b2e
+-		if (..6c024466
+-		{..35d33b27
+-			wal..e3fa2808
+-			wal..91bd5c30
+-			ret..aede7592
+-		}..e80774fa
++	WORD ..5b753810
++	aes_k..b18e47b6
+-		WORD..675a22b3
+-		aes_..60fe28ba
++	data-..0193c674
++	aes_e..a2eb5377
++	walle..a3158831
++	data-..4afff7d1
+-		data..0e789b46
+-		aes_..92dbed4a
+-		wall..8c9c7a0a
+-		data..7af4e0d1
++	keyst..782dfca3
+-		keys..438c435e
++	walle..42eb90d0
++	walle..c4b35503
+-		wall..24da6d34
+-		wall..7f06a39c
++	retur..594f5b55
++}..1ef2828e
+-		retu..6160b86f
++Secure..6c0c1d53
++{..69df7339
++	Secur..06addcc5
++	if (!..720538ea
++	{..ecbf8f79
++		dele..dc653768
++		retu..4ab6425d
++	r->en..0a12d5df
++	retur..eea13a97
++}..1ef2828e
+-	unsig..30d48427
++unsign..aaf91e2e
++{..69df7339
++	if (!..ace12e84
++		retu..0246bac1
++	int r..f53f98d6
++	if (r..5fbb26cb
+-		if (..a76de653
+-			ret..e589b847
+-		int ..af2f0db9
+-		if (..9b262094
+-		{..35d33b27
+-			ret..e589b847
+-		}..e80774fa
++		retu..0246bac1
++	}..eb5e12e8
+-		size..0898b3ff
+-		whil..30db5e80
++	size_..bc8ff4a7
++	while..de59f472
++	{..ecbf8f79
++		ssiz..cef0a57d
++		if (..5febe2d2
+-			ssi..81eaa12b
+-			if ..4b7bb074
++			if ..2759be14
+-				if..2ae24ba1
+-				{..54690153
+-					c..b549118c
+-				}..b8063e26
+-				(v..65a66070
+-				re..34b336ad
++				co..27c7d7d4
+-			ran..443777ca
++			(vo..5a9f3bb8
++			ret..7809b196
+-		clos..0ec2a756
+-		retu..0d5bf047
++		rand..65f7db54
++	close..cbd490e0
++	retur..d15e5a63
++}..1ef2828e
+-	/**..a843e722
+-	 * Re..a6af514a
+-	 */..2fa383f6
+-	size_..0998f3ce
+-	{..85650ca1
+-		/* F..48a76da8
+-		retu..0006d471
+-			(si..c8ca1baa
+-	}..9e115af6
++/**..85246c4f
++ * Ret..e0e7db84
++ */..9fbb357a
++size_t..11a96bb5
++{..69df7339
++	/* Fr..bff465b4
++	retur..919cb337
++		(siz..d4e9e15f
++}..1ef2828e
+-	uint6..087b24a1
++uint64..7a784e56
++{..69df7339
++	if (_..edf1cad9
+-		if (..98f2d317
+-		{..35d33b27
+-			siz..c8e9b6a4
+-			if ..c6583462
+-				_s..6513b65b
+-			els..37cf6495
+-				_s..ed353326
+-		}..e80774fa
+-		retu..ee09454b
++		size..4e9f40a1
++		if (..ec67b0c3
++			_sc..9449efc4
++		else..f4e6873f
++			_sc..0ce0ba61
++	retur..7eba4798
++}..1ef2828e
+-	Secur..e1e2c16d
+-	{..85650ca1
+-		retu..11fca6b5
+-	}..9e115af6
++Secure..e35c01fa
++{..69df7339
++	retur..3a35ae20
++}..1ef2828e
+-	size_..9fce0789
+-	{..85650ca1
+-		retu..e171e467
+-	}..9e115af6
++size_t..97272902
++{..69df7339
++	retur..47b6f3d7
++}..1ef2828e
+-	bool ..a51eafc8
+-	{..85650ca1
+-		retu..214d11b7
+-	}..9e115af6
++bool s..610e33c9
++{..69df7339
++	retur..eba382c8
++}..1ef2828e
+-	Secur..16edf28e
+-	{..85650ca1
+-		retu..ed4e2890
+-	}..9e115af6
++Secure..783e3562
++{..69df7339
++	retur..72a66381
++}..1ef2828e
+-	bool ..654963aa
+-	{..85650ca1
+-		retu..8f4b0c8a
+-	}..9e115af6
++bool s..36bc3c53
++{..69df7339
++	retur..55bcfbff
++}..1ef2828e
+-	unsig..dc296086
+-	{..85650ca1
+-		retu..8e268663
+-	}..9e115af6
++unsign..14e1749b
++{..69df7339
++	retur..0026b44b
++}..1ef2828e
++..daa000b9
++void s..f454217f
++{..69df7339
++	if (a..f0e1d4c3
++		dele..31229cdc
++}..1ef2828e
++..daa000b9
++double..bb0f3a70
++{..69df7339
++	Secur..e209b7b1
++	doubl..af3e7d22
++	delet..feb21c6d
++	retur..44f61ab1
++}..1ef2828e
+-	void ..bd7fa513
++unsign..7e9a3f3c
++{..69df7339
++	unsig..956d9832
++	if (g..1ed7eb6a
+-		if (..0ff02d04
+-			del..7aeb9e27
++		retu..4ab6425d
+-	doubl..1f586655
++	unsig..dd4d7584
++	if (g..7b33e0ac
+-		Secu..caff7604
+-		doub..024c3c51
+-		dele..fb305606
+-		retu..31532b71
++		retu..4ab6425d
+-	unsig..ddfbb3e0
+-	{..85650ca1
+-		unsi..89cfeec1
+-		if (..8b1616b2
+-		{..35d33b27
+-			ret..07ea40ad
+-		}..e80774fa
++	unsig..05c06916
++	Secur..3c9c0bd9
++	int s..ef29ec5b
++	     ..baffbd05
++	delet..feb21c6d
+-		unsi..94b701bb
+-		if (..9c895a7a
+-		{..35d33b27
+-			ret..07ea40ad
+-		}..e80774fa
++	if (s..9fdd9898
++	{..ecbf8f79
++		wall..86b7d74d
++		retu..4ab6425d
++	}..eb5e12e8
+-		unsi..a42a935d
+-		Secu..9191f55c
+-		int ..a0c354b4
+-			W_S..ec2aba68
+-			W_S..b05e2a29
+-		dele..fb305606
++	WORD ..cc8a4226
++	aes_k..e68d4242
++	walle..fb5d65ee
+-		if (..dd80ce5a
+-		{..35d33b27
+-			wal..77cc4e76
+-			ret..07ea40ad
+-		}..e80774fa
++	len =..6803e5d3
++	data-..0193c674
++	unsig..44edd75c
++	crypt..494347c1
++	walle..a3158831
++	data-..4afff7d1
+-		WORD..3b17b2c0
+-		aes_..a54da6b6
+-		wall..b8755e83
++	unsig..d22566fe
++	memcp..c1b18c04
++	memcp..9a8ebf29
++	memcp..9fe08e4f
+-		len ..bc1ee76f
+-		data..0e789b46
+-		unsi..7a2ebdbf
+-		cryp..26a33a37
+-		wall..8c9c7a0a
+-		data..7af4e0d1
++	walle..3eb131f6
++	walle..9cef148e
+-		unsi..ba9cc5fd
+-		memc..e9a0a653
+-		memc..cbef59fd
+-		memc..31e9ee58
++	walle..208a207d
++	walle..c4908e2e
+-		wall..2407e17f
+-		wall..48dc140b
++	len =..2bc28b1c
++	retur..3a846cb1
++}..1ef2828e
+-		wall..006475dc
+-		wall..dcf949b2
++Secure..89145030
++{..69df7339
++	if (l..6e071c99
++		retu..4ab6425d
+-		len ..2756a9d8
+-		retu..5b8b3210
+-	}..9e115af6
++	unsig..05c06916
++	Secur..3c9c0bd9
++	int s..16424255
++	     ..2d0bbb71
++	     ..baffbd05
++	delet..feb21c6d
+-	Secur..e770476f
++	if (s..9fdd9898
+-		if (..c9d77ec6
+-			ret..07ea40ad
+-..84da5595
+-		unsi..a42a935d
+-		Secu..9191f55c
+-		int ..6b911800
+-			SAL..815d83f2
+-			W_S..9361352a
+-		dele..fb305606
+-..84da5595
+-		if (..dd80ce5a
+-		{..35d33b27
+-			ret..07ea40ad
+-		}..e80774fa
++		retu..4ab6425d
++	}..eb5e12e8
+-		WORD..3b17b2c0
+-		aes_..a54da6b6
++	WORD ..cc8a4226
++	aes_k..e68d4242
+-		wall..b8755e83
++	walle..fb5d65ee
+-		len ..1fa726a2
+-		unsi..81ddcc2a
+-		mloc..6a3e9de6
+-		cryp..c5ebb0c7
+-			key..a53df6ea
+-		wall..8c9c7a0a
++	len =..d3492283
++	unsig..dc390cc3
++	mlock..0a34654c
++	crypt..bf9f98e0
++	     ..dd139b3d
++	walle..a3158831
+-		retu..144fe28a
+-	}..9e115af6
++	retur..27b2f4d7
++}..1ef2828e
+-	unsig..1432415e
+-	{..85650ca1
++unsign..9dc4d916
++{..69df7339
+-		unsi..94b701bb
+-		for ..98dff6f9
+-		{..35d33b27
+-			uns..8de0e1af
+-			iv[..09b1cea0
+-		}..e80774fa
++	unsig..dd4d7584
++	for (..527a105b
++	{..ecbf8f79
++		unsi..89d199c6
++		iv[i..17b114cb
++	}..eb5e12e8
+-		unsi..a42a935d
+-		for ..073108fd
+-		{..35d33b27
+-			uns..59415667
+-			key..7124c44d
+-		}..e80774fa
++	unsig..05c06916
++	for (..07a90888
++	{..ecbf8f79
++		unsi..5842c57c
++		key[..bdefac14
++	}..eb5e12e8
+-		WORD..3b17b2c0
+-		aes_..a54da6b6
++	WORD ..cc8a4226
++	aes_k..e68d4242
+-		unsi..c92b926b
+-		cryp..c071c600
++	unsig..98b1691e
++	crypt..b20a5b0f
+-		wall..006475dc
+-		wall..b8755e83
+-		wall..8c9c7a0a
++	walle..208a207d
++	walle..fb5d65ee
++	walle..a3158831
+-		retu..5b8b3210
++	retur..3a846cb1
+-	void ..b5d727de
+-	{..85650ca1
+-		if (..694cd50a
+-			ret..75bea3c9
+-		wall..67c5671a
+-		wall..16b2c6a7
+-	}..9e115af6
++void a..ff51be72
++{..69df7339
++	if (!..1135b548
++		retu..11ed5f9f
++	walle..1bdeab02
++	walle..6e9f7d46
++}..1ef2828e
+-	int c..13663566
+-	{..85650ca1
+-		if (..d4c9a0ea
+-			aes..e73035dc
+-		else..19b887db
+-			aes..25b183d1
+-		retu..9c0481a7
+-	}..9e115af6
++int cr..c9aad7e4
++      ..12ba7e63
++{..69df7339
++	if (m..fb4c6075
++		aes_..f7e00ee0
++	else..2f7f8d3b
++		aes_..8a9e0d5d
++	retur..63175f45
++}..1ef2828e
+-	char*..b40a4ca6
++char* ..fbf494f5
++{..69df7339
++	size_..b064a80d
++	for (..3e48796f
+-		size..06e8dbe1
+-		for ..f083172f
+-		{..35d33b27
+-			Sec..d36d58ea
+-			siz..997188b4
+-		}..e80774fa
++		Secu..68b85741
++		size..8e73c495
++	}..eb5e12e8
+-		--si..dffa13f4
+-		*len..776e75c6
+-		char..ed6029af
+-		mloc..6f2c1fa7
++	--siz..9162d127
++	*lenR..f4615819
++	char*..bf43a511
++	mlock..336f8ff4
+-		size..cd15358f
+-		for ..f083172f
+-		{..35d33b27
+-			Sec..d36d58ea
+-			siz..917910ca
+-			if ..b35fd93d
+-				re..13b5052c
+-		}..e80774fa
+-		retu..5b8b3210
++	size ..4f85eeb4
++	for (..3e48796f
++	{..ecbf8f79
++		Secu..68b85741
++		size..4264a730
++		if (..32406f82
++			res..3b66c8a3
++	retur..3a846cb1
++}..1ef2828e
