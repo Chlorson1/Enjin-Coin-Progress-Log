@@ -1,0 +1,114 @@
++++ /de..7ef3c908
+-## PRO..7a0dc114
+-sudo -..062bce76
+-..1279f545
+-## DEV..28134577
+-sudo -..e337637a
+-..1279f545
+-## JOB..b0e6ed4c
+-sudo -..472846a8
++++ /de..7ef3c908
+-#!/bin..08a06133
+-cd ~/..9c928cf1
+-..1279f545
+-# Bash..f1a45c7e
+-functi..7a06fa81
+-    KE..99311384
+-    nu..f891713f
+-    aw..2f633a81
+-}..a7b29e5e
+-..1279f545
+-# Requ..f63b0194
+-if [ $..c8ec76a1
+-      ..c3a14386
+-      ..069616d1
+-elif [..70e13aaa
+-      ..16071ce5
+-      ..069616d1
+-fi..51873c08
+-..1279f545
+-# Conf..2f999b01
+-PROJEC..4ac2fc53
+-ENV=$2..36105fcc
+-GROUP_..8d981227
+-FTP_HO..69922564
+-..1279f545
+-# Impo..4a40f259
+-INSTAN..a11d1303
+-ENJIN_..24250683
+-LOCAL_..44daf3c8
+-..1279f545
+-# Save..56a66db4
+-echo "..0e229aae
+-echo $..bb1430c0
+-echo $..b7a1325d
+-echo $..e09cd422
+-..1279f545
+-# Set ..aa70ad31
+-echo "..a5e0e78d
+-echo $..38a2b44f
+-hostna..9e1d2c7e
+-echo $..5467a50e
+-echo "..35855f99
+-..1279f545
+-echo "..857ff211
+-printf..2d6b234e
+-chmod ..7830f078
+-sudo ~..9d4c07ea
+-..1279f545
+-# Retr..d2b6e05a
+-echo "..fb4ed64a
+-ssh-ke..97522def
+-..1279f545
+-# Run ..c58abf24
+-echo "..511a024a
+-sudo ~..f87ae757
+-..1279f545
+-# If t..b41f2849
+-# We c..44dcc067
+-if [ $..3d95b4ba
+-      ..47e3e1a4
+-      ..e8ac80c9
+-      ..2753fdaa
+-      ..d48a6562
+-      ..223179ec
+-fi..51873c08
+-..1279f545
+-# Remo..cd2e5860
+-echo "..ef2b016c
+-rm -f ..be45d67f
++++ /de..7ef3c908
+-#!/bin..08a06133
+-..1279f545
+-cd ~/..9c928cf1
+-..1279f545
+-echo "..d02be503
+-if [ !..9bafddd8
+-      ..ae1a65bb
+-      ..1be526dd
+-elif [..bc7b5296
+-      ..5f90bd23
+-      ..f649bb4a
+-elif [..ae22713a
+-      ..5f90bd23
+-      ..a913a3a7
+-fi..51873c08
+-..1279f545
+-PROJEC..68125afa
+-FTP_HO..c36c7021
+-FTP_PA..289b5c0a
+-..1279f545
+-echo "..fb7a9d9e
+-sftp -..27fb5a6a
+-sftp -..3596819f
+-..1279f545
+-PATCHE..c6d67e57
+-if [ $..640e33ee
+-      ..7a036e3d
+-      ..821776e2
+-      ..705414f0
+-      ..7bbdc415
+-else..a01f2e0d
+-      ..0861659b
+-      ..c0fb6d0a
+-fi..51873c08
