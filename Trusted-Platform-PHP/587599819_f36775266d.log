@@ -1,0 +1,73 @@
+--- /de..7081c741
++RED   ..a875f167
++GREEN ..19c92f7a
++YELLOW..e3b53f28
++BLUE  ..f9f7e95c
++MAGENT..6f104483
++CYAN  ..2a13ba2e
++WHITE ..3bf76cc0
++RESET ..a1baa116
++..db94ca42
++HELP =..c5a62e42
++	%help..01243782
++	while..841fb26d
++	print..2d4946ca
++	for (..415eb51c
++	print..e8158c56
++	for (..bbf47703
++	$$sep..800d037f
++	print..8dcc1522
++	}; \..6a736ea1
++	print..304e587f
++..db94ca42
++help: ..051e8647
++	@perl..8c4b7918
++..db94ca42
++instal..46a331d7
++	make ..9f354fcf
++	make ..b62150a7
++..db94ca42
++reinst..589c40c6
++	make ..9f354fcf
++	make ..8419af1b
++..db94ca42
++setup:..7f0ec8b2
++	compo..af2d3c5a
++	php a..1fa4989c
++	php a..5f1932c8
++	php a..58e7f9af
++	php a..f8e31599
++..db94ca42
++create..103135ee
++	mysql..f89e0cc9
++	mysql..91f54d6f
++	make ..364faca5
++	make ..026647bc
++..db94ca42
++drop: ..b54e4416
++	mysql..5541a83a
++	mysql..4acdbb77
++..db94ca42
++recrea..dbeadb05
++	make ..a135032a
++	make ..b62150a7
++..db94ca42
++migrat..5dbdd16f
++	php a..c2b821ee
++..db94ca42
++seed: ..5ac8a9f9
++	php a..5a0faddf
++	mysql..7f3f90fb
++	php a..cca97728
++	mysql..5a328bda
++	php a..20fe0a71
++	mysql..1cd4e77a
++..db94ca42
++fix: #..9625d06e
++	vendo..0d7e143c
++..db94ca42
++lint: ..6375b359
++	vendo..7d408dc6
++..db94ca42
++test: ..b3158b4c
++	vendo..ac2bdb02
